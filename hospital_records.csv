@@ -1,0 +1,1001 @@
+patient_id,gender,blood_type,department,doctor_name,diagnosis,payment_method,admission_date,discharge_date,age,billing_amount,length_of_stay
+P0001,Male,A+,Emergency,Dr. Cruz,Hypertension,Indigent,2023-09-06,2023-09-18,34,24686.16,12
+P0002,Female,B-,Emergency,Dr. Flores,Stroke,HMO,2024-05-25,2024-06-11,35,30808.77,17
+P0003,Female,O+,General Surgery,Dr. Lopez,Stroke,PhilHealth,2024-08-25,2024-08-27,15,9096.02,2
+P0004,Female,O+,Emergency,Dr. Torres,Appendicitis,HMO,2023-08-04,2023-08-17,6,44300.56,13
+P0005,Male,O+,Emergency,Dr. Mendoza,Asthma,HMO,2024-08-24,2024-09-11,85,58317.29,18
+P0006,Male,O+,Pediatrics,Dr. Torres,Hypertension,HMO,2024-06-24,2024-07-09,32,36269.5,15
+P0007,Male,O+,Neurology,Dr. Mendoza,Hypertension,PhilHealth,2023-08-08,2023-08-16,52,28754.47,8
+P0008,Female,O+,Oncology,Dr. Cruz,Stroke,Senior Citizen Discount,2024-12-27,2025-01-11,83,42461.69,15
+P0009,Female,A+,Cardiology,Dr. Reyes,Skin Infection,Indigent,2023-08-09,2023-08-10,28,10019.4,1
+P0010,Female,B+,Neurology,Dr. Mendoza,Hypertension,PhilHealth,2024-01-24,2024-02-13,85,44302.81,20
+P0011,Male,A+,Cardiology,Dr. Cruz,Stroke,PhilHealth,2024-07-07,2024-07-17,64,23369.42,10
+P0012,Female,O-,Cardiology,Dr. Cruz,Hypertension,PhilHealth,2024-10-08,2024-10-20,79,29725.0,12
+P0013,Female,O+,General Surgery,Dr. Reyes,Stroke,Private Pay,2023-02-11,2023-02-16,78,16173.83,5
+P0014,Male,A+,Cardiology,Dr. Garcia,Appendicitis,Private Pay,2024-11-06,2024-11-15,19,18163.15,9
+P0015,Male,O+,Orthopedics,Dr. Torres,Asthma,HMO,2023-10-10,2023-10-18,15,14516.33,8
+P0016,Male,O+,Neurology,Dr. Santos,Stroke,HMO,2023-02-27,2023-03-15,6,51691.16,16
+P0017,Male,A+,Emergency,Dr. Santos,Hypertension,HMO,2024-06-20,2024-07-04,73,34304.73,14
+P0018,Female,AB+,General Surgery,Dr. Lopez,Diabetes,PhilHealth,2023-03-14,2023-03-27,84,48458.32,13
+P0019,Male,O+,Cardiology,Dr. Lopez,Asthma,HMO,2023-05-09,2023-05-22,38,27028.32,13
+P0020,Male,A+,Pediatrics,Dr. Santos,Appendicitis,Private Pay,2024-08-21,2024-08-26,26,14848.25,5
+P0021,Female,O+,Dermatology,Dr. Ramos,Stroke,Indigent,2024-03-01,2024-03-17,82,37646.18,16
+P0022,Male,A-,Orthopedics,Dr. Santos,Diabetes,Senior Citizen Discount,2024-10-26,2024-11-06,51,25868.12,11
+P0023,Male,O+,General Surgery,Dr. Lopez,Stroke,Senior Citizen Discount,2024-11-24,2024-11-29,73,20847.21,5
+P0024,Male,O-,Cardiology,Dr. Flores,Skin Infection,HMO,2023-05-05,2023-05-18,53,25215.95,13
+P0025,Male,O+,Neurology,Dr. Lopez,Hypertension,HMO,2023-03-08,2023-03-19,56,43360.11,11
+P0026,Female,B+,Emergency,Dr. Ramos,Migraine,Private Pay,2023-01-06,2023-01-25,59,69323.52,19
+P0027,Male,O+,Pediatrics,Dr. Torres,Heart Attack,Senior Citizen Discount,2024-09-28,2024-10-01,70,14604.91,3
+P0028,Female,O+,Dermatology,Dr. Santos,Fracture,PhilHealth,2023-11-10,2023-11-25,78,45955.11,15
+P0029,Female,A-,Emergency,Dr. Reyes,Skin Infection,PhilHealth,2023-11-22,2023-11-29,58,23391.2,7
+P0030,Male,O+,Pediatrics,Dr. Flores,Diabetes,PhilHealth,2024-07-18,2024-07-25,88,20322.97,7
+P0031,Female,A+,Emergency,Dr. Cruz,Skin Infection,HMO,2024-07-31,2024-08-06,13,23304.73,6
+P0032,Male,AB+,Orthopedics,Dr. Ramos,Pneumonia,PhilHealth,2024-05-20,2024-05-23,43,8713.83,3
+P0033,Male,A+,Neurology,Dr. Lopez,Stroke,PhilHealth,2023-03-23,2023-04-05,76,25895.03,13
+P0034,Female,A+,Dermatology,Dr. Reyes,Stroke,PhilHealth,2024-08-21,2024-08-28,51,22698.75,7
+P0035,Female,A+,Orthopedics,Dr. Mendoza,Fracture,PhilHealth,2023-01-02,2023-01-07,19,19566.59,5
+P0036,Female,O+,Emergency,Dr. Garcia,Fracture,Senior Citizen Discount,2023-07-23,2023-08-10,21,60406.07,18
+P0037,Male,B+,Cardiology,Dr. Santos,Pneumonia,PhilHealth,2024-10-23,2024-10-31,83,20104.06,8
+P0038,Male,O+,Cardiology,Dr. Garcia,Hypertension,Private Pay,2024-02-08,2024-02-25,24,58002.58,17
+P0039,Female,A+,Emergency,Dr. Ramos,Heart Attack,HMO,2023-04-13,2023-05-03,26,44816.81,20
+P0040,Male,A-,Emergency,Dr. Mendoza,Migraine,Senior Citizen Discount,2024-06-19,2024-06-20,45,8842.03,1
+P0041,Male,B-,Oncology,Dr. Mendoza,Migraine,PhilHealth,2024-01-03,2024-01-17,28,38080.7,14
+P0042,Female,O+,Orthopedics,Dr. Mendoza,Appendicitis,Indigent,2023-07-31,2023-08-17,82,46812.19,17
+P0043,Male,A-,Orthopedics,Dr. Cruz,Appendicitis,HMO,2024-07-30,2024-08-09,29,25703.05,10
+P0044,Female,O+,Cardiology,Dr. Ramos,Hypertension,Indigent,2023-07-28,2023-08-09,17,37973.02,12
+P0045,Male,O+,General Surgery,Dr. Torres,Appendicitis,Senior Citizen Discount,2023-04-27,2023-05-13,68,55235.32,16
+P0046,Female,O+,Pediatrics,Dr. Garcia,Appendicitis,PhilHealth,2024-09-19,2024-10-03,44,38427.32,14
+P0047,Male,A+,Cardiology,Dr. Torres,Pneumonia,PhilHealth,2024-04-22,2024-05-08,61,46445.27,16
+P0048,Female,A+,Pediatrics,Dr. Reyes,Pneumonia,PhilHealth,2023-04-15,2023-04-23,68,32044.44,8
+P0049,Female,O+,Orthopedics,Dr. Aquino,Appendicitis,HMO,2024-05-09,2024-05-19,74,33503.03,10
+P0050,Male,A+,Cardiology,Dr. Flores,Skin Infection,PhilHealth,2023-02-15,2023-03-04,25,47985.1,17
+P0051,Female,O+,Neurology,Dr. Flores,Asthma,PhilHealth,2023-11-27,2023-12-15,67,41206.85,18
+P0052,Female,B+,Neurology,Dr. Torres,Asthma,HMO,2023-08-04,2023-08-24,2,68689.2,20
+P0053,Female,O+,Cardiology,Dr. Aquino,Hypertension,PhilHealth,2024-05-06,2024-05-22,89,50045.57,16
+P0054,Female,O+,Dermatology,Dr. Aquino,Migraine,PhilHealth,2024-03-24,2024-04-10,49,38129.42,17
+P0055,Female,O-,Oncology,Dr. Santos,Fracture,HMO,2024-06-19,2024-07-05,70,41709.25,16
+P0056,Female,B+,Pediatrics,Dr. Reyes,Hypertension,PhilHealth,2024-05-25,2024-06-13,26,60768.07,19
+P0057,Male,O+,Neurology,Dr. Ramos,Appendicitis,PhilHealth,2024-04-02,2024-04-10,72,16592.77,8
+P0058,Male,B+,Neurology,Dr. Aquino,Pneumonia,HMO,2024-06-30,2024-07-06,27,25970.38,6
+P0059,Male,B+,Pediatrics,Dr. Lopez,Stroke,HMO,2024-06-19,2024-06-25,89,17838.98,6
+P0060,Male,O+,Orthopedics,Dr. Flores,Skin Infection,Senior Citizen Discount,2024-06-23,2024-07-02,18,33628.17,9
+P0061,Male,O+,Cardiology,Dr. Lopez,Diabetes,HMO,2024-04-28,2024-05-02,54,14779.15,4
+P0062,Male,O-,Orthopedics,Dr. Reyes,Pneumonia,HMO,2023-01-16,2023-01-28,1,32558.66,12
+P0063,Female,O+,Oncology,Dr. Aquino,Asthma,HMO,2024-07-24,2024-08-05,61,41821.73,12
+P0064,Male,B+,Neurology,Dr. Garcia,Pneumonia,Private Pay,2023-08-31,2023-09-17,3,45183.99,17
+P0065,Male,B+,Cardiology,Dr. Flores,Skin Infection,Senior Citizen Discount,2023-07-26,2023-08-10,68,40896.6,15
+P0066,Female,O+,Oncology,Dr. Santos,Fracture,Senior Citizen Discount,2023-09-28,2023-10-07,41,18323.64,9
+P0067,Male,A+,Emergency,Dr. Santos,Appendicitis,Private Pay,2024-12-05,2024-12-12,37,16534.7,7
+P0068,Female,A+,Emergency,Dr. Mendoza,Stroke,PhilHealth,2024-12-30,2025-01-09,51,22931.35,10
+P0069,Male,B+,Cardiology,Dr. Cruz,Asthma,PhilHealth,2023-04-25,2023-05-11,15,53989.37,16
+P0070,Female,A-,Emergency,Dr. Aquino,Asthma,PhilHealth,2024-08-02,2024-08-14,8,28358.23,12
+P0071,Female,A-,Pediatrics,Dr. Reyes,Heart Attack,Senior Citizen Discount,2023-10-26,2023-11-02,38,13949.83,7
+P0072,Male,A+,Orthopedics,Dr. Flores,Migraine,Private Pay,2024-04-27,2024-05-15,83,44929.84,18
+P0073,Male,A+,Emergency,Dr. Cruz,Fracture,Private Pay,2024-02-01,2024-02-16,56,42363.56,15
+P0074,Female,A+,General Surgery,Dr. Reyes,Asthma,PhilHealth,2024-01-29,2024-02-04,47,20979.68,6
+P0075,Female,O-,General Surgery,Dr. Torres,Migraine,Private Pay,2023-03-16,2023-03-28,10,28815.59,12
+P0076,Female,B+,General Surgery,Dr. Aquino,Asthma,PhilHealth,2024-04-26,2024-05-07,78,22423.15,11
+P0077,Female,B+,Emergency,Dr. Ramos,Appendicitis,PhilHealth,2023-04-13,2023-05-03,49,73537.48,20
+P0078,Male,O+,Neurology,Dr. Ramos,Migraine,PhilHealth,2023-10-24,2023-10-27,41,8019.33,3
+P0079,Male,A+,Dermatology,Dr. Aquino,Skin Infection,HMO,2023-06-27,2023-06-29,83,13009.34,2
+P0080,Male,O+,Oncology,Dr. Mendoza,Heart Attack,HMO,2023-08-03,2023-08-09,30,23251.68,6
+P0081,Female,O+,Cardiology,Dr. Mendoza,Appendicitis,Senior Citizen Discount,2023-11-11,2023-11-16,5,20249.57,5
+P0082,Female,A+,Cardiology,Dr. Ramos,Skin Infection,PhilHealth,2023-02-08,2023-02-26,71,37892.26,18
+P0083,Male,B+,Neurology,Dr. Garcia,Stroke,HMO,2023-09-16,2023-10-02,83,52754.55,16
+P0084,Male,O+,General Surgery,Dr. Flores,Fracture,HMO,2024-12-16,2024-12-24,31,27001.84,8
+P0085,Male,O+,Orthopedics,Dr. Ramos,Fracture,PhilHealth,2023-01-07,2023-01-27,52,60804.51,20
+P0086,Male,B+,Neurology,Dr. Garcia,Diabetes,Private Pay,2023-02-18,2023-03-01,88,29716.43,11
+P0087,Female,O+,Cardiology,Dr. Cruz,Diabetes,Private Pay,2024-06-21,2024-07-01,23,27350.27,10
+P0088,Female,A+,Pediatrics,Dr. Garcia,Migraine,Private Pay,2023-06-10,2023-06-22,48,26574.66,12
+P0089,Female,O-,Oncology,Dr. Cruz,Fracture,Senior Citizen Discount,2023-06-25,2023-07-01,40,20403.07,6
+P0090,Male,A+,Neurology,Dr. Reyes,Migraine,Private Pay,2024-08-13,2024-09-02,6,54958.41,20
+P0091,Male,O+,Oncology,Dr. Lopez,Diabetes,PhilHealth,2023-01-02,2023-01-07,38,15552.66,5
+P0092,Female,O+,Dermatology,Dr. Reyes,Stroke,Private Pay,2024-03-30,2024-04-08,41,27001.69,9
+P0093,Female,AB-,Emergency,Dr. Ramos,Asthma,PhilHealth,2024-10-05,2024-10-21,27,44538.68,16
+P0094,Female,B+,Orthopedics,Dr. Cruz,Skin Infection,PhilHealth,2023-10-03,2023-10-17,75,45322.08,14
+P0095,Female,A+,Emergency,Dr. Ramos,Pneumonia,PhilHealth,2024-05-12,2024-05-20,69,34492.27,8
+P0096,Female,A+,Oncology,Dr. Aquino,Migraine,Private Pay,2024-09-20,2024-10-10,57,42751.89,20
+P0097,Female,A+,Orthopedics,Dr. Flores,Stroke,Private Pay,2024-11-06,2024-11-25,17,46570.93,19
+P0098,Male,A+,Orthopedics,Dr. Santos,Skin Infection,PhilHealth,2023-01-28,2023-02-11,71,30178.57,14
+P0099,Male,O+,Oncology,Dr. Ramos,Fracture,Private Pay,2023-11-29,2023-12-06,47,24721.66,7
+P0100,Male,B+,Neurology,Dr. Flores,Asthma,Senior Citizen Discount,2023-01-01,2023-01-06,79,17910.39,5
+P0101,Male,A+,General Surgery,Dr. Garcia,Skin Infection,PhilHealth,2023-07-07,2023-07-25,13,64780.08,18
+P0102,Female,O-,Orthopedics,Dr. Reyes,Heart Attack,PhilHealth,2023-02-25,2023-02-27,11,8703.95,2
+P0103,Male,O+,Cardiology,Dr. Garcia,Diabetes,Private Pay,2024-06-30,2024-07-11,86,45615.89,11
+P0104,Female,O+,Pediatrics,Dr. Santos,Skin Infection,PhilHealth,2023-04-22,2023-04-30,24,13850.72,8
+P0105,Female,O-,Oncology,Dr. Cruz,Pneumonia,HMO,2023-11-06,2023-11-07,73,10117.66,1
+P0106,Male,A+,Emergency,Dr. Aquino,Stroke,PhilHealth,2023-02-05,2023-02-17,4,22497.59,12
+P0107,Male,B+,Oncology,Dr. Flores,Asthma,HMO,2024-03-14,2024-03-16,46,8830.94,2
+P0108,Female,O+,General Surgery,Dr. Aquino,Appendicitis,Private Pay,2024-12-29,2025-01-16,18,53433.01,18
+P0109,Male,O+,Emergency,Dr. Lopez,Skin Infection,Private Pay,2024-08-14,2024-08-21,43,26334.67,7
+P0110,Male,A+,Dermatology,Dr. Ramos,Hypertension,Private Pay,2024-08-17,2024-09-03,80,61282.55,17
+P0111,Male,O+,Cardiology,Dr. Cruz,Pneumonia,Senior Citizen Discount,2024-07-30,2024-08-13,33,31810.1,14
+P0112,Male,A+,Emergency,Dr. Lopez,Pneumonia,Private Pay,2023-11-21,2023-11-28,10,20159.97,7
+P0113,Female,A+,Emergency,Dr. Torres,Hypertension,Private Pay,2024-10-01,2024-10-04,73,15890.73,3
+P0114,Female,B-,General Surgery,Dr. Ramos,Heart Attack,PhilHealth,2023-11-03,2023-11-09,59,17466.24,6
+P0115,Female,AB+,Pediatrics,Dr. Garcia,Appendicitis,HMO,2024-06-17,2024-07-07,31,40845.01,20
+P0116,Female,AB+,Cardiology,Dr. Reyes,Diabetes,PhilHealth,2024-12-28,2024-12-30,28,12360.78,2
+P0117,Female,A+,Neurology,Dr. Flores,Stroke,Private Pay,2024-09-10,2024-09-27,60,49283.66,17
+P0118,Male,O+,Orthopedics,Dr. Santos,Asthma,PhilHealth,2023-04-19,2023-05-01,3,22439.52,12
+P0119,Female,A+,Cardiology,Dr. Santos,Stroke,HMO,2024-01-07,2024-01-19,55,28979.58,12
+P0120,Female,A+,General Surgery,Dr. Garcia,Appendicitis,PhilHealth,2023-12-23,2024-01-09,14,27406.03,17
+P0121,Female,O+,Oncology,Dr. Mendoza,Stroke,Private Pay,2023-06-30,2023-07-10,58,28682.86,10
+P0122,Female,O+,Orthopedics,Dr. Santos,Hypertension,Senior Citizen Discount,2023-12-22,2023-12-25,89,11098.34,3
+P0123,Male,O+,Dermatology,Dr. Flores,Pneumonia,PhilHealth,2024-11-06,2024-11-26,15,74412.22,20
+P0124,Male,O+,Neurology,Dr. Garcia,Stroke,Senior Citizen Discount,2023-03-09,2023-03-27,2,56664.29,18
+P0125,Male,O+,Dermatology,Dr. Cruz,Migraine,PhilHealth,2023-10-19,2023-11-01,24,27748.83,13
+P0126,Male,AB+,Pediatrics,Dr. Santos,Skin Infection,HMO,2024-11-22,2024-12-04,78,48094.62,12
+P0127,Female,A+,Orthopedics,Dr. Aquino,Appendicitis,Senior Citizen Discount,2023-06-30,2023-07-17,64,45131.42,17
+P0128,Female,B+,Cardiology,Dr. Garcia,Heart Attack,PhilHealth,2024-04-10,2024-04-14,71,14612.52,4
+P0129,Male,B+,General Surgery,Dr. Flores,Migraine,Indigent,2024-03-09,2024-03-19,24,39784.81,10
+P0130,Female,A+,Neurology,Dr. Aquino,Hypertension,PhilHealth,2024-04-08,2024-04-19,27,34732.25,11
+P0131,Male,O+,Cardiology,Dr. Ramos,Fracture,PhilHealth,2024-11-11,2024-11-17,37,28202.05,6
+P0132,Male,B+,Cardiology,Dr. Ramos,Hypertension,Senior Citizen Discount,2024-06-17,2024-06-23,39,22382.68,6
+P0133,Male,A+,Orthopedics,Dr. Santos,Heart Attack,PhilHealth,2023-03-07,2023-03-16,63,20351.15,9
+P0134,Male,A+,Orthopedics,Dr. Aquino,Heart Attack,Indigent,2023-01-21,2023-02-05,79,31016.03,15
+P0135,Female,O+,Pediatrics,Dr. Reyes,Migraine,Indigent,2024-09-03,2024-09-05,26,10313.14,2
+P0136,Male,A+,General Surgery,Dr. Ramos,Skin Infection,PhilHealth,2024-01-19,2024-01-23,65,12502.97,4
+P0137,Female,O+,Cardiology,Dr. Reyes,Appendicitis,HMO,2024-09-06,2024-09-11,4,17092.01,5
+P0138,Female,B+,Pediatrics,Dr. Cruz,Diabetes,PhilHealth,2024-07-12,2024-07-29,29,56492.47,17
+P0139,Male,B+,Emergency,Dr. Garcia,Pneumonia,HMO,2023-02-08,2023-02-16,1,30809.69,8
+P0140,Female,AB+,Oncology,Dr. Lopez,Migraine,PhilHealth,2023-10-12,2023-10-20,50,23476.93,8
+P0141,Female,O+,Oncology,Dr. Flores,Heart Attack,PhilHealth,2024-08-24,2024-09-05,86,38142.63,12
+P0142,Male,B+,Orthopedics,Dr. Garcia,Fracture,PhilHealth,2024-08-19,2024-08-27,11,30119.23,8
+P0143,Female,O+,Pediatrics,Dr. Flores,Asthma,HMO,2023-12-02,2023-12-21,74,53646.52,19
+P0144,Male,AB+,Emergency,Dr. Aquino,Heart Attack,Indigent,2023-07-07,2023-07-10,59,11578.1,3
+P0145,Male,A+,Neurology,Dr. Cruz,Skin Infection,Private Pay,2024-11-01,2024-11-19,62,39905.82,18
+P0146,Male,O+,Oncology,Dr. Torres,Skin Infection,Private Pay,2023-08-31,2023-09-19,81,45790.68,19
+P0147,Female,O+,Neurology,Dr. Santos,Heart Attack,HMO,2023-03-14,2023-04-02,36,40566.71,19
+P0148,Female,O+,Emergency,Dr. Flores,Skin Infection,Private Pay,2024-04-23,2024-05-08,56,33797.29,15
+P0149,Male,O+,Neurology,Dr. Flores,Migraine,PhilHealth,2024-07-14,2024-07-20,21,18636.74,6
+P0150,Male,O+,Oncology,Dr. Aquino,Heart Attack,Private Pay,2023-04-11,2023-04-27,13,42703.74,16
+P0151,Female,O+,Emergency,Dr. Reyes,Heart Attack,Indigent,2024-05-28,2024-06-05,9,35041.39,8
+P0152,Male,O+,Cardiology,Dr. Garcia,Appendicitis,PhilHealth,2023-06-25,2023-07-11,11,31613.06,16
+P0153,Male,O+,Pediatrics,Dr. Torres,Pneumonia,Private Pay,2023-08-26,2023-09-13,75,56248.66,18
+P0154,Female,O+,Oncology,Dr. Mendoza,Fracture,Private Pay,2023-02-28,2023-03-20,70,63865.8,20
+P0155,Female,O+,Cardiology,Dr. Santos,Skin Infection,Senior Citizen Discount,2023-04-09,2023-04-25,1,31192.55,16
+P0156,Male,O+,Emergency,Dr. Lopez,Appendicitis,Private Pay,2024-05-09,2024-05-20,70,40113.69,11
+P0157,Female,A+,Cardiology,Dr. Mendoza,Diabetes,PhilHealth,2024-05-28,2024-06-04,77,22502.93,7
+P0158,Female,O+,Emergency,Dr. Garcia,Diabetes,PhilHealth,2023-10-24,2023-11-10,86,42777.45,17
+P0159,Male,O+,Neurology,Dr. Santos,Stroke,PhilHealth,2023-07-30,2023-08-16,56,58906.67,17
+P0160,Female,A+,Pediatrics,Dr. Flores,Migraine,Private Pay,2023-05-03,2023-05-15,31,25308.6,12
+P0161,Male,O+,Pediatrics,Dr. Lopez,Migraine,PhilHealth,2023-08-17,2023-08-30,86,42577.42,13
+P0162,Female,A+,Orthopedics,Dr. Reyes,Hypertension,Senior Citizen Discount,2024-08-16,2024-08-26,37,22044.03,10
+P0163,Female,B+,Emergency,Dr. Torres,Fracture,PhilHealth,2024-10-17,2024-10-24,47,27638.61,7
+P0164,Female,O+,Oncology,Dr. Reyes,Heart Attack,PhilHealth,2024-01-23,2024-02-06,78,41168.51,14
+P0165,Male,A+,Neurology,Dr. Cruz,Skin Infection,HMO,2023-05-20,2023-05-21,47,7624.7,1
+P0166,Female,O+,Dermatology,Dr. Aquino,Fracture,Private Pay,2024-06-24,2024-07-11,69,37652.98,17
+P0167,Male,O+,Orthopedics,Dr. Santos,Stroke,PhilHealth,2024-01-26,2024-01-30,58,17601.25,4
+P0168,Male,B+,Cardiology,Dr. Reyes,Hypertension,HMO,2023-09-27,2023-10-02,36,20421.03,5
+P0169,Male,A+,Pediatrics,Dr. Mendoza,Appendicitis,HMO,2023-01-12,2023-02-01,32,53147.71,20
+P0170,Female,A-,Emergency,Dr. Aquino,Fracture,PhilHealth,2024-01-24,2024-01-31,64,25180.47,7
+P0171,Female,O+,Pediatrics,Dr. Reyes,Appendicitis,PhilHealth,2023-12-03,2023-12-13,71,27821.46,10
+P0172,Male,O-,Cardiology,Dr. Ramos,Diabetes,Private Pay,2024-05-20,2024-06-06,42,59676.75,17
+P0173,Female,O+,Cardiology,Dr. Cruz,Skin Infection,HMO,2023-04-16,2023-04-23,48,21414.18,7
+P0174,Male,A+,Oncology,Dr. Garcia,Stroke,PhilHealth,2023-02-01,2023-02-02,74,10889.76,1
+P0175,Female,O+,Emergency,Dr. Torres,Heart Attack,Private Pay,2023-03-15,2023-03-22,81,20276.9,7
+P0176,Male,B-,Oncology,Dr. Cruz,Skin Infection,Indigent,2023-06-20,2023-07-01,30,31322.3,11
+P0177,Female,O+,Emergency,Dr. Aquino,Pneumonia,HMO,2023-03-10,2023-03-19,21,22710.06,9
+P0178,Male,A+,Pediatrics,Dr. Ramos,Migraine,HMO,2023-12-28,2024-01-09,60,29384.23,12
+P0179,Female,O+,Pediatrics,Dr. Santos,Stroke,Senior Citizen Discount,2024-10-10,2024-10-13,13,15076.76,3
+P0180,Male,B-,Orthopedics,Dr. Mendoza,Fracture,Indigent,2024-03-08,2024-03-12,1,13772.56,4
+P0181,Male,O-,Emergency,Dr. Torres,Skin Infection,Private Pay,2023-04-10,2023-04-14,65,16374.77,4
+P0182,Male,B+,Emergency,Dr. Torres,Asthma,HMO,2024-10-19,2024-11-01,33,40154.86,13
+P0183,Female,O+,Cardiology,Dr. Cruz,Migraine,HMO,2023-01-09,2023-01-28,38,49664.92,19
+P0184,Female,O+,Emergency,Dr. Aquino,Migraine,Private Pay,2024-07-27,2024-08-06,25,31368.72,10
+P0185,Male,A+,Pediatrics,Dr. Santos,Asthma,PhilHealth,2024-11-27,2024-12-02,26,16329.45,5
+P0186,Female,O+,General Surgery,Dr. Flores,Hypertension,HMO,2023-01-29,2023-02-05,77,18512.06,7
+P0187,Female,O+,General Surgery,Dr. Ramos,Hypertension,Private Pay,2023-04-24,2023-05-10,59,52666.9,16
+P0188,Female,A+,Oncology,Dr. Flores,Asthma,Private Pay,2024-04-06,2024-04-07,33,8018.86,1
+P0189,Female,A-,Oncology,Dr. Mendoza,Pneumonia,HMO,2023-05-23,2023-06-04,41,28742.17,12
+P0190,Male,O+,Pediatrics,Dr. Santos,Diabetes,Private Pay,2024-01-25,2024-01-27,30,7277.68,2
+P0191,Male,A+,Emergency,Dr. Santos,Asthma,PhilHealth,2024-09-23,2024-09-30,57,22686.05,7
+P0192,Female,AB+,General Surgery,Dr. Ramos,Diabetes,HMO,2024-11-12,2024-11-23,49,41356.91,11
+P0193,Female,B+,Pediatrics,Dr. Lopez,Skin Infection,Private Pay,2023-06-06,2023-06-19,48,48264.11,13
+P0194,Female,O+,Orthopedics,Dr. Flores,Pneumonia,PhilHealth,2023-12-01,2023-12-03,72,8266.97,2
+P0195,Male,A+,Cardiology,Dr. Reyes,Stroke,PhilHealth,2023-09-17,2023-09-24,49,16618.17,7
+P0196,Male,O+,Neurology,Dr. Torres,Diabetes,Indigent,2023-03-23,2023-04-07,47,48537.36,15
+P0197,Female,O-,Neurology,Dr. Lopez,Migraine,PhilHealth,2024-03-16,2024-03-27,56,32517.84,11
+P0198,Female,O-,General Surgery,Dr. Reyes,Skin Infection,PhilHealth,2023-06-21,2023-06-23,65,5724.03,2
+P0199,Female,O+,Orthopedics,Dr. Aquino,Migraine,Indigent,2023-08-19,2023-08-26,12,23920.55,7
+P0200,Female,A+,Neurology,Dr. Ramos,Pneumonia,Private Pay,2024-12-20,2024-12-24,69,11017.41,4
+P0201,Female,O+,Dermatology,Dr. Aquino,Diabetes,Private Pay,2023-03-16,2023-03-27,88,44440.1,11
+P0202,Male,A+,Cardiology,Dr. Torres,Appendicitis,Senior Citizen Discount,2023-09-27,2023-09-29,6,8326.99,2
+P0203,Male,A+,Neurology,Dr. Garcia,Pneumonia,PhilHealth,2024-09-17,2024-10-03,89,35244.42,16
+P0204,Female,A-,Cardiology,Dr. Reyes,Pneumonia,Private Pay,2023-03-03,2023-03-10,65,18036.52,7
+P0205,Female,B+,Pediatrics,Dr. Lopez,Appendicitis,HMO,2023-11-16,2023-11-29,25,48499.61,13
+P0206,Male,O+,General Surgery,Dr. Reyes,Skin Infection,Private Pay,2023-04-12,2023-04-17,1,18938.24,5
+P0207,Male,O+,Emergency,Dr. Reyes,Diabetes,HMO,2024-03-04,2024-03-21,32,57409.79,17
+P0208,Female,B+,Oncology,Dr. Ramos,Diabetes,HMO,2024-12-22,2025-01-03,3,33750.53,12
+P0209,Male,A+,Emergency,Dr. Aquino,Migraine,HMO,2023-09-12,2023-10-01,49,49029.11,19
+P0210,Male,O-,General Surgery,Dr. Flores,Pneumonia,HMO,2024-06-15,2024-06-22,19,19502.14,7
+P0211,Female,B+,Pediatrics,Dr. Garcia,Pneumonia,Private Pay,2024-07-23,2024-07-29,60,22141.93,6
+P0212,Female,B+,Oncology,Dr. Ramos,Heart Attack,HMO,2023-04-22,2023-04-30,29,23899.68,8
+P0213,Female,A+,Cardiology,Dr. Mendoza,Stroke,HMO,2023-11-09,2023-11-22,50,40096.88,13
+P0214,Male,O+,Dermatology,Dr. Ramos,Pneumonia,HMO,2024-04-05,2024-04-10,2,13622.58,5
+P0215,Female,O+,Pediatrics,Dr. Torres,Fracture,HMO,2024-12-08,2024-12-10,73,12423.51,2
+P0216,Male,A+,Emergency,Dr. Garcia,Stroke,Private Pay,2024-04-06,2024-04-15,56,20837.74,9
+P0217,Male,A+,Oncology,Dr. Santos,Fracture,Private Pay,2023-04-02,2023-04-13,17,44203.92,11
+P0218,Female,O+,Emergency,Dr. Mendoza,Diabetes,Private Pay,2023-02-21,2023-02-27,60,12316.27,6
+P0219,Female,O+,General Surgery,Dr. Cruz,Stroke,Senior Citizen Discount,2024-06-03,2024-06-10,36,22321.82,7
+P0220,Female,A+,Cardiology,Dr. Ramos,Pneumonia,Private Pay,2023-04-08,2023-04-15,61,21540.87,7
+P0221,Female,O+,Pediatrics,Dr. Reyes,Appendicitis,HMO,2023-08-24,2023-09-12,17,46436.08,19
+P0222,Female,A+,Orthopedics,Dr. Flores,Migraine,Private Pay,2024-01-09,2024-01-15,49,25091.24,6
+P0223,Male,B+,Cardiology,Dr. Santos,Fracture,Senior Citizen Discount,2024-08-03,2024-08-14,76,30516.66,11
+P0224,Male,O+,Emergency,Dr. Ramos,Stroke,HMO,2024-07-10,2024-07-21,60,26576.55,11
+P0225,Male,B+,Cardiology,Dr. Ramos,Pneumonia,Private Pay,2024-10-10,2024-10-17,20,26074.32,7
+P0226,Male,O+,Neurology,Dr. Lopez,Stroke,Private Pay,2023-08-22,2023-08-24,50,10810.39,2
+P0227,Female,B+,Emergency,Dr. Lopez,Pneumonia,HMO,2023-02-01,2023-02-20,3,65000.52,19
+P0228,Male,A+,Orthopedics,Dr. Santos,Pneumonia,PhilHealth,2023-10-16,2023-10-20,43,14982.05,4
+P0229,Female,O-,Emergency,Dr. Aquino,Pneumonia,HMO,2024-09-29,2024-10-05,57,22809.23,6
+P0230,Female,B+,Emergency,Dr. Lopez,Heart Attack,Indigent,2024-08-01,2024-08-18,50,50992.38,17
+P0231,Female,O+,Pediatrics,Dr. Reyes,Migraine,Private Pay,2024-06-25,2024-06-30,68,17097.69,5
+P0232,Female,A+,Cardiology,Dr. Mendoza,Appendicitis,HMO,2023-04-24,2023-05-01,81,22096.09,7
+P0233,Female,A+,General Surgery,Dr. Cruz,Appendicitis,Senior Citizen Discount,2023-07-23,2023-08-01,50,27699.06,9
+P0234,Female,A+,Oncology,Dr. Garcia,Stroke,HMO,2023-01-29,2023-01-30,37,3825.3,1
+P0235,Male,O+,Pediatrics,Dr. Cruz,Stroke,HMO,2024-10-04,2024-10-05,46,7206.91,1
+P0236,Female,B+,Orthopedics,Dr. Cruz,Pneumonia,Private Pay,2024-04-18,2024-05-07,42,37639.57,19
+P0237,Male,O+,General Surgery,Dr. Garcia,Heart Attack,Private Pay,2024-11-27,2024-12-03,15,23823.4,6
+P0238,Male,B+,Emergency,Dr. Lopez,Pneumonia,PhilHealth,2023-09-10,2023-09-28,33,54098.48,18
+P0239,Female,O-,Cardiology,Dr. Santos,Heart Attack,HMO,2024-01-21,2024-01-31,80,35524.78,10
+P0240,Male,A+,Emergency,Dr. Garcia,Pneumonia,HMO,2023-03-03,2023-03-14,11,37866.57,11
+P0241,Female,O+,Oncology,Dr. Torres,Fracture,PhilHealth,2024-05-29,2024-05-30,20,7166.55,1
+P0242,Female,O+,Cardiology,Dr. Aquino,Fracture,HMO,2024-03-05,2024-03-06,24,11247.69,1
+P0243,Female,O+,Orthopedics,Dr. Mendoza,Diabetes,HMO,2024-08-02,2024-08-15,64,44388.83,13
+P0244,Male,O+,Dermatology,Dr. Flores,Pneumonia,PhilHealth,2024-06-20,2024-06-25,80,19242.59,5
+P0245,Male,O+,Oncology,Dr. Lopez,Migraine,HMO,2024-11-21,2024-12-11,65,63169.35,20
+P0246,Female,O+,Orthopedics,Dr. Aquino,Diabetes,PhilHealth,2023-05-21,2023-05-22,88,7696.63,1
+P0247,Male,A+,Cardiology,Dr. Garcia,Stroke,HMO,2023-10-27,2023-11-16,88,53710.29,20
+P0248,Female,A+,Oncology,Dr. Torres,Skin Infection,Senior Citizen Discount,2024-11-05,2024-11-08,73,14117.98,3
+P0249,Female,O+,Orthopedics,Dr. Flores,Pneumonia,Private Pay,2023-11-07,2023-11-25,86,35017.41,18
+P0250,Female,O+,Cardiology,Dr. Mendoza,Fracture,PhilHealth,2024-04-15,2024-04-24,76,23066.51,9
+P0251,Male,O+,Cardiology,Dr. Mendoza,Skin Infection,PhilHealth,2024-01-28,2024-02-11,17,37158.35,14
+P0252,Male,B+,General Surgery,Dr. Lopez,Heart Attack,PhilHealth,2024-10-03,2024-10-20,89,53492.13,17
+P0253,Female,A+,Pediatrics,Dr. Garcia,Skin Infection,HMO,2024-03-20,2024-04-03,61,46625.32,14
+P0254,Male,A+,Oncology,Dr. Aquino,Migraine,PhilHealth,2023-06-21,2023-06-25,15,15427.69,4
+P0255,Male,O+,General Surgery,Dr. Santos,Pneumonia,HMO,2024-07-29,2024-08-03,51,18601.94,5
+P0256,Female,B+,Orthopedics,Dr. Aquino,Appendicitis,PhilHealth,2023-01-31,2023-02-17,27,27562.89,17
+P0257,Female,A+,Orthopedics,Dr. Aquino,Skin Infection,Private Pay,2023-02-16,2023-02-18,86,10796.43,2
+P0258,Female,B+,Neurology,Dr. Mendoza,Appendicitis,PhilHealth,2023-05-10,2023-05-15,74,24779.17,5
+P0259,Female,A+,Emergency,Dr. Santos,Heart Attack,PhilHealth,2023-12-18,2023-12-22,61,12564.26,4
+P0260,Male,AB+,Neurology,Dr. Santos,Diabetes,Private Pay,2024-09-13,2024-09-17,58,12717.09,4
+P0261,Female,A+,Oncology,Dr. Lopez,Appendicitis,PhilHealth,2024-08-03,2024-08-09,31,22792.93,6
+P0262,Female,O+,Orthopedics,Dr. Flores,Diabetes,PhilHealth,2023-02-27,2023-03-19,12,65714.87,20
+P0263,Male,A-,General Surgery,Dr. Ramos,Fracture,HMO,2023-04-16,2023-04-29,46,37811.38,13
+P0264,Female,B+,Neurology,Dr. Cruz,Pneumonia,HMO,2023-11-26,2023-12-01,31,16876.67,5
+P0265,Female,A+,Orthopedics,Dr. Cruz,Skin Infection,Private Pay,2024-11-13,2024-11-20,32,27054.17,7
+P0266,Female,A+,Orthopedics,Dr. Mendoza,Fracture,PhilHealth,2024-01-18,2024-02-07,32,64909.6,20
+P0267,Female,B+,Orthopedics,Dr. Ramos,Fracture,HMO,2023-06-11,2023-06-12,53,7806.7,1
+P0268,Female,B+,Pediatrics,Dr. Flores,Asthma,PhilHealth,2023-10-13,2023-10-27,61,35306.56,14
+P0269,Male,AB-,Emergency,Dr. Ramos,Hypertension,PhilHealth,2023-03-12,2023-03-16,46,15592.53,4
+P0270,Male,A-,Orthopedics,Dr. Lopez,Migraine,Senior Citizen Discount,2024-03-29,2024-04-15,85,41307.0,17
+P0271,Female,O+,Cardiology,Dr. Aquino,Diabetes,Private Pay,2024-07-20,2024-08-03,74,30293.77,14
+P0272,Female,O+,Neurology,Dr. Mendoza,Asthma,PhilHealth,2024-02-01,2024-02-17,80,46509.79,16
+P0273,Female,O+,Neurology,Dr. Santos,Hypertension,HMO,2024-05-29,2024-06-12,7,32253.43,14
+P0274,Female,A+,Pediatrics,Dr. Mendoza,Migraine,PhilHealth,2023-01-26,2023-02-11,4,47131.1,16
+P0275,Female,B+,Dermatology,Dr. Cruz,Diabetes,Senior Citizen Discount,2023-11-09,2023-11-29,52,41093.96,20
+P0276,Female,A+,Orthopedics,Dr. Flores,Pneumonia,PhilHealth,2023-05-06,2023-05-14,89,26591.84,8
+P0277,Female,A+,Pediatrics,Dr. Ramos,Migraine,PhilHealth,2024-02-12,2024-02-15,31,9492.13,3
+P0278,Female,O-,Orthopedics,Dr. Flores,Skin Infection,HMO,2024-07-18,2024-08-06,75,32222.86,19
+P0279,Female,A+,Orthopedics,Dr. Lopez,Fracture,HMO,2023-07-17,2023-07-18,84,8151.78,1
+P0280,Female,B+,Cardiology,Dr. Mendoza,Hypertension,HMO,2023-07-07,2023-07-09,36,10476.39,2
+P0281,Female,O+,Emergency,Dr. Garcia,Hypertension,PhilHealth,2024-11-28,2024-12-13,54,53285.33,15
+P0282,Male,O+,Emergency,Dr. Mendoza,Hypertension,PhilHealth,2024-12-16,2024-12-26,54,24702.24,10
+P0283,Male,AB+,Neurology,Dr. Santos,Diabetes,HMO,2024-04-28,2024-05-16,17,56186.69,18
+P0284,Male,A+,Cardiology,Dr. Mendoza,Skin Infection,PhilHealth,2024-03-25,2024-04-08,75,40097.75,14
+P0285,Female,A-,Cardiology,Dr. Torres,Migraine,Senior Citizen Discount,2024-06-06,2024-06-23,30,64183.32,17
+P0286,Male,B+,Emergency,Dr. Lopez,Fracture,PhilHealth,2023-12-20,2024-01-02,22,32739.69,13
+P0287,Male,A+,Dermatology,Dr. Reyes,Skin Infection,HMO,2024-10-19,2024-10-20,43,9976.37,1
+P0288,Female,B+,Emergency,Dr. Lopez,Asthma,Private Pay,2024-08-19,2024-08-24,27,15068.97,5
+P0289,Male,A+,Neurology,Dr. Ramos,Pneumonia,PhilHealth,2023-04-10,2023-04-23,37,36240.77,13
+P0290,Female,A+,Emergency,Dr. Reyes,Appendicitis,HMO,2024-09-07,2024-09-21,46,56626.44,14
+P0291,Male,B+,Orthopedics,Dr. Ramos,Skin Infection,Private Pay,2024-07-11,2024-07-14,35,12567.71,3
+P0292,Male,A+,Emergency,Dr. Ramos,Asthma,PhilHealth,2024-07-09,2024-07-24,4,37434.15,15
+P0293,Female,AB+,Emergency,Dr. Santos,Fracture,Senior Citizen Discount,2023-10-05,2023-10-24,80,36901.49,19
+P0294,Male,O+,Orthopedics,Dr. Santos,Appendicitis,HMO,2024-11-23,2024-12-10,80,59324.7,17
+P0295,Male,O+,Cardiology,Dr. Aquino,Appendicitis,PhilHealth,2024-11-29,2024-12-02,85,17336.4,3
+P0296,Female,A+,Cardiology,Dr. Cruz,Skin Infection,HMO,2024-09-17,2024-10-03,26,40989.8,16
+P0297,Female,A+,Emergency,Dr. Aquino,Hypertension,PhilHealth,2024-05-05,2024-05-19,19,53399.53,14
+P0298,Male,A+,Cardiology,Dr. Aquino,Stroke,Private Pay,2023-09-12,2023-09-24,81,26251.46,12
+P0299,Female,O+,Cardiology,Dr. Cruz,Fracture,Private Pay,2024-01-16,2024-01-28,45,29995.09,12
+P0300,Male,O+,Emergency,Dr. Garcia,Hypertension,Private Pay,2024-06-25,2024-07-06,26,40450.28,11
+P0301,Male,A+,Oncology,Dr. Reyes,Fracture,Indigent,2023-09-21,2023-10-08,22,43159.78,17
+P0302,Female,O+,Orthopedics,Dr. Flores,Stroke,Private Pay,2024-09-01,2024-09-09,58,21192.92,8
+P0303,Female,A+,Orthopedics,Dr. Aquino,Pneumonia,HMO,2023-11-25,2023-12-12,63,49029.48,17
+P0304,Female,B-,Emergency,Dr. Mendoza,Stroke,PhilHealth,2023-04-25,2023-05-15,28,66283.53,20
+P0305,Female,O+,General Surgery,Dr. Mendoza,Heart Attack,HMO,2023-10-03,2023-10-14,65,20333.88,11
+P0306,Female,O+,Neurology,Dr. Ramos,Skin Infection,PhilHealth,2024-05-02,2024-05-04,44,12244.37,2
+P0307,Female,O+,Cardiology,Dr. Cruz,Skin Infection,Private Pay,2023-10-08,2023-10-18,43,37711.38,10
+P0308,Male,O+,Orthopedics,Dr. Ramos,Asthma,HMO,2023-10-02,2023-10-12,37,23173.39,10
+P0309,Female,B+,Cardiology,Dr. Torres,Hypertension,PhilHealth,2024-12-19,2024-12-30,66,40037.03,11
+P0310,Male,O+,Emergency,Dr. Torres,Asthma,PhilHealth,2023-11-24,2023-11-30,17,17211.67,6
+P0311,Male,A+,Orthopedics,Dr. Flores,Heart Attack,PhilHealth,2023-07-30,2023-08-03,40,12108.95,4
+P0312,Male,O+,General Surgery,Dr. Santos,Stroke,HMO,2024-12-27,2025-01-08,38,41664.5,12
+P0313,Male,B-,Neurology,Dr. Santos,Skin Infection,HMO,2024-07-05,2024-07-16,85,42516.08,11
+P0314,Female,O+,Pediatrics,Dr. Cruz,Diabetes,HMO,2023-01-26,2023-02-08,61,29332.99,13
+P0315,Female,B+,Dermatology,Dr. Cruz,Stroke,HMO,2023-01-27,2023-02-01,9,15156.38,5
+P0316,Female,O+,Cardiology,Dr. Aquino,Stroke,Private Pay,2024-12-02,2024-12-08,77,22507.49,6
+P0317,Male,B+,Emergency,Dr. Torres,Heart Attack,PhilHealth,2023-03-24,2023-03-25,75,11186.46,1
+P0318,Male,O+,Neurology,Dr. Aquino,Pneumonia,PhilHealth,2024-11-12,2024-11-18,61,18279.98,6
+P0319,Male,A+,Neurology,Dr. Santos,Fracture,HMO,2024-02-17,2024-03-06,80,36381.09,18
+P0320,Male,A+,Neurology,Dr. Reyes,Heart Attack,HMO,2023-06-16,2023-06-25,16,28726.7,9
+P0321,Female,A+,General Surgery,Dr. Reyes,Fracture,PhilHealth,2024-11-30,2024-12-15,2,42736.88,15
+P0322,Female,A+,Pediatrics,Dr. Cruz,Skin Infection,PhilHealth,2023-06-18,2023-06-26,72,22211.25,8
+P0323,Female,O+,Orthopedics,Dr. Ramos,Heart Attack,PhilHealth,2023-08-17,2023-09-05,43,66236.15,19
+P0324,Male,A+,Emergency,Dr. Santos,Fracture,HMO,2024-08-31,2024-09-16,42,54650.82,16
+P0325,Female,O-,Oncology,Dr. Reyes,Asthma,PhilHealth,2024-01-02,2024-01-08,77,13928.2,6
+P0326,Female,B+,Dermatology,Dr. Santos,Heart Attack,HMO,2024-06-11,2024-06-17,57,16297.95,6
+P0327,Female,A+,Oncology,Dr. Lopez,Skin Infection,Private Pay,2024-10-08,2024-10-11,81,12076.72,3
+P0328,Female,O+,Cardiology,Dr. Mendoza,Heart Attack,PhilHealth,2024-06-21,2024-07-01,88,23806.53,10
+P0329,Male,O+,Orthopedics,Dr. Torres,Skin Infection,Indigent,2024-06-07,2024-06-08,67,7216.5,1
+P0330,Male,B+,Cardiology,Dr. Aquino,Heart Attack,HMO,2023-03-13,2023-03-27,30,45616.48,14
+P0331,Male,AB+,Emergency,Dr. Santos,Fracture,HMO,2024-10-06,2024-10-10,13,9673.38,4
+P0332,Female,O+,Cardiology,Dr. Mendoza,Pneumonia,Private Pay,2023-04-16,2023-04-28,19,23156.84,12
+P0333,Male,A+,Orthopedics,Dr. Lopez,Migraine,Private Pay,2024-11-19,2024-11-25,7,12650.43,6
+P0334,Male,O-,Pediatrics,Dr. Aquino,Fracture,HMO,2023-10-09,2023-10-20,9,27107.75,11
+P0335,Male,O-,Cardiology,Dr. Santos,Hypertension,HMO,2023-05-13,2023-05-25,83,23333.71,12
+P0336,Male,O+,Neurology,Dr. Cruz,Appendicitis,PhilHealth,2024-06-17,2024-06-27,54,38886.17,10
+P0337,Female,A+,Neurology,Dr. Mendoza,Pneumonia,PhilHealth,2023-09-26,2023-10-14,86,41483.76,18
+P0338,Female,O+,Emergency,Dr. Aquino,Asthma,PhilHealth,2024-02-16,2024-02-23,82,18267.74,7
+P0339,Male,A+,Cardiology,Dr. Santos,Stroke,PhilHealth,2024-11-03,2024-11-10,61,19786.45,7
+P0340,Male,A+,Neurology,Dr. Mendoza,Fracture,PhilHealth,2024-09-10,2024-09-21,87,36005.45,11
+P0341,Female,A+,Pediatrics,Dr. Lopez,Heart Attack,PhilHealth,2023-01-18,2023-01-22,2,17204.55,4
+P0342,Male,B+,Cardiology,Dr. Santos,Fracture,Private Pay,2023-04-27,2023-05-17,50,52465.46,20
+P0343,Male,O+,Cardiology,Dr. Santos,Diabetes,Senior Citizen Discount,2023-05-24,2023-05-25,75,6146.41,1
+P0344,Male,O+,Emergency,Dr. Santos,Pneumonia,Senior Citizen Discount,2024-12-17,2024-12-30,31,32825.15,13
+P0345,Male,O+,Dermatology,Dr. Flores,Migraine,HMO,2024-07-04,2024-07-22,33,43159.8,18
+P0346,Female,B+,Pediatrics,Dr. Cruz,Asthma,Private Pay,2024-10-27,2024-11-05,78,20719.08,9
+P0347,Female,B+,Pediatrics,Dr. Lopez,Diabetes,Senior Citizen Discount,2024-11-18,2024-11-27,80,25748.2,9
+P0348,Male,B+,Emergency,Dr. Aquino,Skin Infection,HMO,2024-02-26,2024-03-06,11,20307.27,9
+P0349,Male,O-,Orthopedics,Dr. Flores,Diabetes,PhilHealth,2024-01-04,2024-01-14,33,31310.22,10
+P0350,Female,A+,Cardiology,Dr. Ramos,Fracture,Senior Citizen Discount,2024-10-07,2024-10-09,7,12236.73,2
+P0351,Female,O+,Orthopedics,Dr. Flores,Asthma,HMO,2024-07-11,2024-07-17,31,19069.96,6
+P0352,Female,AB+,General Surgery,Dr. Torres,Fracture,HMO,2023-02-19,2023-03-06,48,31963.62,15
+P0353,Female,B+,Orthopedics,Dr. Torres,Skin Infection,PhilHealth,2024-11-08,2024-11-11,47,11358.41,3
+P0354,Male,O+,General Surgery,Dr. Santos,Stroke,PhilHealth,2023-04-16,2023-04-27,78,26844.38,11
+P0355,Male,B+,Pediatrics,Dr. Flores,Asthma,Private Pay,2023-08-04,2023-08-10,53,26514.05,6
+P0356,Female,O+,Cardiology,Dr. Ramos,Stroke,HMO,2024-10-19,2024-10-22,80,11528.18,3
+P0357,Male,O+,General Surgery,Dr. Flores,Pneumonia,PhilHealth,2024-02-29,2024-03-11,19,35198.7,11
+P0358,Female,B+,Cardiology,Dr. Cruz,Pneumonia,PhilHealth,2023-03-13,2023-03-28,81,35642.53,15
+P0359,Female,A+,Orthopedics,Dr. Cruz,Stroke,HMO,2024-03-21,2024-04-03,6,28752.14,13
+P0360,Female,AB+,Cardiology,Dr. Ramos,Pneumonia,HMO,2023-07-05,2023-07-25,49,38756.65,20
+P0361,Male,O+,Cardiology,Dr. Flores,Asthma,PhilHealth,2023-03-11,2023-03-21,73,28464.78,10
+P0362,Female,A+,Neurology,Dr. Mendoza,Heart Attack,Senior Citizen Discount,2023-05-30,2023-06-05,50,16708.2,6
+P0363,Male,O+,Emergency,Dr. Cruz,Hypertension,PhilHealth,2023-09-03,2023-09-18,81,29969.05,15
+P0364,Female,O+,Neurology,Dr. Cruz,Pneumonia,PhilHealth,2024-06-21,2024-07-09,12,58440.04,18
+P0365,Female,O+,Orthopedics,Dr. Reyes,Pneumonia,Private Pay,2024-10-13,2024-10-31,23,38456.27,18
+P0366,Male,A+,Cardiology,Dr. Flores,Fracture,PhilHealth,2023-04-09,2023-04-16,54,24758.32,7
+P0367,Female,O+,Cardiology,Dr. Cruz,Stroke,Private Pay,2023-10-05,2023-10-20,69,43622.42,15
+P0368,Female,O+,Orthopedics,Dr. Lopez,Appendicitis,Private Pay,2024-07-16,2024-08-03,59,53026.67,18
+P0369,Male,A+,Emergency,Dr. Flores,Migraine,Private Pay,2024-10-24,2024-11-11,36,52745.49,18
+P0370,Male,A+,Pediatrics,Dr. Torres,Diabetes,PhilHealth,2024-03-30,2024-04-19,3,48137.52,20
+P0371,Male,O-,Pediatrics,Dr. Reyes,Pneumonia,PhilHealth,2023-04-14,2023-04-23,58,23738.8,9
+P0372,Male,A+,Oncology,Dr. Cruz,Diabetes,PhilHealth,2024-08-23,2024-08-25,88,7458.0,2
+P0373,Male,O+,Pediatrics,Dr. Reyes,Asthma,HMO,2024-10-14,2024-10-22,55,30976.53,8
+P0374,Female,B+,Neurology,Dr. Torres,Appendicitis,Private Pay,2024-12-25,2025-01-14,57,45124.61,20
+P0375,Male,A+,Pediatrics,Dr. Ramos,Migraine,Private Pay,2023-08-21,2023-08-23,17,7191.2,2
+P0376,Male,O+,Emergency,Dr. Ramos,Stroke,Private Pay,2024-01-29,2024-02-09,39,42075.41,11
+P0377,Female,B+,Emergency,Dr. Flores,Hypertension,Senior Citizen Discount,2024-05-15,2024-05-22,68,22101.72,7
+P0378,Male,B+,Oncology,Dr. Torres,Migraine,Private Pay,2024-11-25,2024-12-01,55,18796.45,6
+P0379,Female,B+,Neurology,Dr. Garcia,Migraine,PhilHealth,2023-09-08,2023-09-18,45,26288.26,10
+P0380,Male,AB+,Oncology,Dr. Garcia,Hypertension,PhilHealth,2024-06-04,2024-06-09,76,11722.2,5
+P0381,Male,A+,Oncology,Dr. Flores,Heart Attack,Private Pay,2023-03-20,2023-03-31,1,32820.96,11
+P0382,Female,B+,Oncology,Dr. Santos,Stroke,PhilHealth,2023-02-21,2023-02-22,21,4975.07,1
+P0383,Female,O-,General Surgery,Dr. Reyes,Fracture,PhilHealth,2023-08-14,2023-08-16,83,7011.08,2
+P0384,Female,A+,Neurology,Dr. Reyes,Diabetes,HMO,2023-02-20,2023-02-21,21,10242.65,1
+P0385,Female,O+,Emergency,Dr. Ramos,Pneumonia,Private Pay,2023-07-05,2023-07-24,52,61953.05,19
+P0386,Female,A-,Orthopedics,Dr. Garcia,Migraine,PhilHealth,2023-02-03,2023-02-05,82,10614.62,2
+P0387,Male,O+,Emergency,Dr. Aquino,Asthma,Private Pay,2023-05-11,2023-05-31,43,37870.96,20
+P0388,Male,A+,Orthopedics,Dr. Cruz,Hypertension,Private Pay,2024-09-23,2024-09-27,52,17741.9,4
+P0389,Female,O-,Pediatrics,Dr. Cruz,Diabetes,HMO,2024-03-18,2024-03-30,67,42488.04,12
+P0390,Female,B+,Pediatrics,Dr. Cruz,Appendicitis,PhilHealth,2024-03-07,2024-03-27,44,68436.28,20
+P0391,Female,A+,Emergency,Dr. Ramos,Hypertension,PhilHealth,2024-12-04,2024-12-22,32,55260.5,18
+P0392,Male,A+,Cardiology,Dr. Torres,Appendicitis,Private Pay,2024-05-11,2024-05-12,10,6343.2,1
+P0393,Male,A+,Neurology,Dr. Mendoza,Stroke,Private Pay,2024-02-07,2024-02-08,64,5536.6,1
+P0394,Female,B+,Cardiology,Dr. Garcia,Migraine,Senior Citizen Discount,2023-11-19,2023-12-03,79,48852.63,14
+P0395,Male,B+,General Surgery,Dr. Garcia,Asthma,HMO,2023-07-29,2023-08-02,69,9676.07,4
+P0396,Female,O+,Emergency,Dr. Aquino,Pneumonia,PhilHealth,2024-09-06,2024-09-11,68,17944.77,5
+P0397,Female,B+,Cardiology,Dr. Reyes,Appendicitis,PhilHealth,2023-11-25,2023-12-06,28,30944.04,11
+P0398,Male,A+,Cardiology,Dr. Santos,Diabetes,Private Pay,2024-01-07,2024-01-20,53,40794.15,13
+P0399,Female,O+,Pediatrics,Dr. Flores,Heart Attack,PhilHealth,2024-04-04,2024-04-20,51,37992.37,16
+P0400,Female,O+,Orthopedics,Dr. Reyes,Stroke,PhilHealth,2023-05-13,2023-05-26,53,41391.1,13
+P0401,Male,A+,Emergency,Dr. Torres,Heart Attack,HMO,2024-10-12,2024-10-14,4,15108.75,2
+P0402,Female,A+,Cardiology,Dr. Flores,Stroke,PhilHealth,2023-05-01,2023-05-17,79,53590.98,16
+P0403,Female,A+,Neurology,Dr. Garcia,Fracture,PhilHealth,2024-08-28,2024-09-03,17,22485.76,6
+P0404,Female,O+,Emergency,Dr. Torres,Diabetes,HMO,2024-03-27,2024-04-10,67,52387.19,14
+P0405,Male,O+,Pediatrics,Dr. Flores,Heart Attack,PhilHealth,2023-05-09,2023-05-10,74,6939.05,1
+P0406,Female,B+,Orthopedics,Dr. Aquino,Asthma,PhilHealth,2023-04-01,2023-04-18,47,51789.63,17
+P0407,Male,O+,Emergency,Dr. Aquino,Migraine,Private Pay,2024-08-26,2024-09-06,56,29795.59,11
+P0408,Male,O+,Emergency,Dr. Lopez,Hypertension,Private Pay,2024-07-28,2024-08-16,23,62356.08,19
+P0409,Female,AB+,Dermatology,Dr. Mendoza,Pneumonia,PhilHealth,2023-01-29,2023-02-01,18,11951.85,3
+P0410,Male,O+,Neurology,Dr. Aquino,Migraine,Private Pay,2024-12-22,2025-01-02,1,47027.34,11
+P0411,Male,A+,Pediatrics,Dr. Garcia,Migraine,PhilHealth,2024-06-07,2024-06-12,35,19565.58,5
+P0412,Female,A+,Cardiology,Dr. Santos,Stroke,HMO,2023-11-29,2023-12-16,64,58698.54,17
+P0413,Female,A+,Neurology,Dr. Cruz,Asthma,Senior Citizen Discount,2023-10-24,2023-10-31,58,17843.28,7
+P0414,Female,A+,Cardiology,Dr. Lopez,Stroke,Private Pay,2023-05-10,2023-05-20,59,24463.25,10
+P0415,Female,B-,Orthopedics,Dr. Cruz,Skin Infection,Private Pay,2023-10-20,2023-10-31,1,40048.21,11
+P0416,Male,O+,Dermatology,Dr. Mendoza,Appendicitis,PhilHealth,2023-06-22,2023-06-25,3,10422.67,3
+P0417,Male,A+,Neurology,Dr. Flores,Pneumonia,PhilHealth,2024-12-20,2025-01-09,67,67049.77,20
+P0418,Male,A+,Cardiology,Dr. Ramos,Appendicitis,Senior Citizen Discount,2023-01-24,2023-02-03,37,18687.0,10
+P0419,Female,B+,Cardiology,Dr. Aquino,Hypertension,PhilHealth,2023-04-09,2023-04-19,83,32644.43,10
+P0420,Female,O+,Neurology,Dr. Santos,Skin Infection,PhilHealth,2024-02-10,2024-02-24,29,36850.89,14
+P0421,Female,A-,Cardiology,Dr. Mendoza,Diabetes,Private Pay,2023-12-22,2024-01-03,89,37043.71,12
+P0422,Female,B+,Cardiology,Dr. Cruz,Hypertension,Private Pay,2023-05-19,2023-06-03,33,49009.62,15
+P0423,Male,A+,Pediatrics,Dr. Lopez,Hypertension,Senior Citizen Discount,2024-05-17,2024-05-27,61,27727.8,10
+P0424,Female,A+,Neurology,Dr. Aquino,Fracture,PhilHealth,2023-06-23,2023-07-03,4,23825.61,10
+P0425,Male,O-,Emergency,Dr. Garcia,Pneumonia,Senior Citizen Discount,2023-01-29,2023-02-17,14,38712.13,19
+P0426,Female,O-,General Surgery,Dr. Aquino,Stroke,PhilHealth,2024-05-10,2024-05-11,33,7833.89,1
+P0427,Male,A+,Cardiology,Dr. Lopez,Asthma,PhilHealth,2024-10-16,2024-10-26,22,27797.55,10
+P0428,Female,O+,Dermatology,Dr. Lopez,Appendicitis,HMO,2023-12-17,2023-12-19,48,10278.6,2
+P0429,Male,O+,Emergency,Dr. Ramos,Hypertension,PhilHealth,2024-07-07,2024-07-24,3,47919.13,17
+P0430,Male,O+,General Surgery,Dr. Aquino,Appendicitis,PhilHealth,2023-10-26,2023-11-02,87,17742.7,7
+P0431,Male,B+,Orthopedics,Dr. Aquino,Appendicitis,Private Pay,2024-12-20,2024-12-27,85,23850.55,7
+P0432,Female,B+,Oncology,Dr. Ramos,Diabetes,PhilHealth,2023-07-11,2023-07-31,23,36342.63,20
+P0433,Female,B+,Dermatology,Dr. Torres,Pneumonia,PhilHealth,2024-11-02,2024-11-11,68,25302.74,9
+P0434,Male,O+,Emergency,Dr. Torres,Pneumonia,PhilHealth,2023-03-05,2023-03-07,21,14635.13,2
+P0435,Male,A+,Dermatology,Dr. Flores,Heart Attack,HMO,2024-10-25,2024-11-08,43,49199.27,14
+P0436,Female,A+,Neurology,Dr. Torres,Migraine,HMO,2023-08-03,2023-08-20,85,42846.94,17
+P0437,Male,A-,Neurology,Dr. Reyes,Pneumonia,Private Pay,2023-06-15,2023-06-16,26,7455.86,1
+P0438,Female,O+,Emergency,Dr. Aquino,Appendicitis,Private Pay,2024-06-26,2024-07-05,41,33383.17,9
+P0439,Female,A+,Orthopedics,Dr. Santos,Stroke,HMO,2023-08-20,2023-09-09,38,51106.59,20
+P0440,Male,O+,Cardiology,Dr. Aquino,Appendicitis,Private Pay,2024-06-24,2024-07-13,88,37513.61,19
+P0441,Male,O-,Orthopedics,Dr. Reyes,Stroke,PhilHealth,2023-07-14,2023-07-18,11,10845.08,4
+P0442,Female,A+,Orthopedics,Dr. Reyes,Heart Attack,PhilHealth,2024-05-20,2024-05-28,29,26565.21,8
+P0443,Male,O+,Oncology,Dr. Cruz,Stroke,Private Pay,2023-11-30,2023-12-13,60,45955.41,13
+P0444,Male,B+,Oncology,Dr. Aquino,Pneumonia,PhilHealth,2023-10-31,2023-11-04,67,18905.65,4
+P0445,Female,O+,Neurology,Dr. Mendoza,Diabetes,Indigent,2024-03-12,2024-03-21,65,21880.91,9
+P0446,Female,A+,Emergency,Dr. Reyes,Stroke,HMO,2023-11-19,2023-11-28,61,22103.36,9
+P0447,Female,O+,Emergency,Dr. Santos,Appendicitis,Private Pay,2024-05-16,2024-06-03,19,59313.75,18
+P0448,Female,O+,Emergency,Dr. Ramos,Asthma,HMO,2024-01-28,2024-02-09,46,43994.55,12
+P0449,Male,O+,Cardiology,Dr. Flores,Pneumonia,HMO,2024-08-21,2024-08-31,49,36931.47,10
+P0450,Male,O+,Emergency,Dr. Cruz,Asthma,PhilHealth,2023-05-29,2023-06-09,22,32150.84,11
+P0451,Female,B+,Emergency,Dr. Ramos,Skin Infection,Private Pay,2024-02-09,2024-02-16,78,17460.78,7
+P0452,Female,O+,Dermatology,Dr. Cruz,Skin Infection,HMO,2023-10-10,2023-10-19,57,31590.31,9
+P0453,Male,O+,Orthopedics,Dr. Santos,Appendicitis,Senior Citizen Discount,2023-12-28,2024-01-03,14,23419.47,6
+P0454,Female,AB+,Emergency,Dr. Lopez,Skin Infection,PhilHealth,2024-01-14,2024-02-02,44,42847.58,19
+P0455,Male,A+,Orthopedics,Dr. Aquino,Migraine,PhilHealth,2023-07-17,2023-08-02,16,50821.02,16
+P0456,Female,O+,Cardiology,Dr. Garcia,Heart Attack,PhilHealth,2024-07-09,2024-07-24,77,33924.71,15
+P0457,Male,O+,Neurology,Dr. Mendoza,Pneumonia,HMO,2023-12-22,2023-12-29,12,13796.28,7
+P0458,Male,O+,Orthopedics,Dr. Ramos,Asthma,Senior Citizen Discount,2024-06-23,2024-07-09,55,37494.73,16
+P0459,Male,A+,Neurology,Dr. Aquino,Appendicitis,PhilHealth,2024-03-04,2024-03-09,51,10698.0,5
+P0460,Male,O+,Neurology,Dr. Mendoza,Migraine,Private Pay,2023-01-17,2023-02-02,39,40887.46,16
+P0461,Male,B+,Dermatology,Dr. Lopez,Appendicitis,PhilHealth,2024-09-30,2024-10-01,33,6683.83,1
+P0462,Female,O+,General Surgery,Dr. Garcia,Migraine,HMO,2024-01-14,2024-02-02,33,50482.63,19
+P0463,Female,A+,Orthopedics,Dr. Mendoza,Skin Infection,Senior Citizen Discount,2024-11-10,2024-11-15,29,17672.31,5
+P0464,Female,O+,Orthopedics,Dr. Mendoza,Skin Infection,PhilHealth,2024-05-20,2024-05-27,69,16175.54,7
+P0465,Female,O-,Orthopedics,Dr. Ramos,Stroke,HMO,2023-03-17,2023-04-05,70,34687.91,19
+P0466,Male,A+,Emergency,Dr. Torres,Fracture,Indigent,2023-08-19,2023-08-24,31,15705.26,5
+P0467,Male,O-,Neurology,Dr. Garcia,Appendicitis,Senior Citizen Discount,2024-12-16,2025-01-02,80,44877.87,17
+P0468,Female,B+,Cardiology,Dr. Aquino,Stroke,HMO,2023-09-05,2023-09-13,31,19930.04,8
+P0469,Male,O+,Neurology,Dr. Lopez,Pneumonia,HMO,2023-10-29,2023-10-30,89,7331.89,1
+P0470,Female,O+,Orthopedics,Dr. Garcia,Stroke,PhilHealth,2024-12-26,2024-12-28,46,11574.87,2
+P0471,Male,AB+,Emergency,Dr. Santos,Hypertension,HMO,2023-08-03,2023-08-18,77,51687.88,15
+P0472,Female,O+,Dermatology,Dr. Torres,Skin Infection,Private Pay,2023-06-07,2023-06-27,52,54683.38,20
+P0473,Male,O+,General Surgery,Dr. Santos,Hypertension,Private Pay,2023-03-10,2023-03-28,10,33685.86,18
+P0474,Female,B+,Pediatrics,Dr. Lopez,Appendicitis,PhilHealth,2024-01-28,2024-02-08,88,38078.62,11
+P0475,Female,A-,Orthopedics,Dr. Ramos,Asthma,PhilHealth,2023-03-26,2023-04-05,74,27651.3,10
+P0476,Female,O+,General Surgery,Dr. Ramos,Asthma,PhilHealth,2023-09-24,2023-09-28,41,20114.26,4
+P0477,Male,O+,Cardiology,Dr. Lopez,Pneumonia,PhilHealth,2023-03-10,2023-03-15,77,13332.34,5
+P0478,Female,O+,Oncology,Dr. Cruz,Stroke,PhilHealth,2024-09-02,2024-09-06,3,19178.88,4
+P0479,Female,O+,Cardiology,Dr. Lopez,Asthma,HMO,2023-12-13,2023-12-26,59,24213.21,13
+P0480,Female,B+,Oncology,Dr. Torres,Migraine,PhilHealth,2024-12-28,2025-01-10,52,50986.0,13
+P0481,Female,O+,Emergency,Dr. Reyes,Migraine,PhilHealth,2024-11-03,2024-11-21,34,64664.76,18
+P0482,Female,A+,General Surgery,Dr. Ramos,Pneumonia,HMO,2024-02-27,2024-02-29,49,8890.46,2
+P0483,Male,B-,Dermatology,Dr. Flores,Heart Attack,PhilHealth,2024-08-28,2024-09-13,28,55294.14,16
+P0484,Female,A+,Cardiology,Dr. Torres,Skin Infection,PhilHealth,2023-06-23,2023-06-24,83,7229.94,1
+P0485,Female,A-,Neurology,Dr. Torres,Stroke,PhilHealth,2024-11-07,2024-11-26,87,63100.82,19
+P0486,Female,B+,Dermatology,Dr. Torres,Appendicitis,PhilHealth,2023-04-25,2023-05-04,13,27223.16,9
+P0487,Male,B+,Neurology,Dr. Mendoza,Diabetes,HMO,2023-08-08,2023-08-11,69,12088.14,3
+P0488,Male,O+,General Surgery,Dr. Torres,Diabetes,PhilHealth,2023-01-31,2023-02-07,67,24017.64,7
+P0489,Female,B+,Orthopedics,Dr. Ramos,Diabetes,Private Pay,2024-06-06,2024-06-16,61,36707.34,10
+P0490,Female,B+,Emergency,Dr. Reyes,Asthma,Senior Citizen Discount,2023-12-09,2023-12-10,60,5372.63,1
+P0491,Male,A+,Emergency,Dr. Reyes,Heart Attack,Private Pay,2024-01-12,2024-01-22,71,27433.01,10
+P0492,Female,B+,Emergency,Dr. Torres,Heart Attack,HMO,2023-05-10,2023-05-19,24,34150.29,9
+P0493,Male,A+,Oncology,Dr. Santos,Stroke,Senior Citizen Discount,2024-09-08,2024-09-23,63,50913.78,15
+P0494,Male,A+,Neurology,Dr. Ramos,Stroke,Private Pay,2024-06-22,2024-07-07,86,41438.68,15
+P0495,Male,AB-,Orthopedics,Dr. Ramos,Heart Attack,PhilHealth,2023-01-02,2023-01-05,61,9367.43,3
+P0496,Male,O+,Neurology,Dr. Garcia,Pneumonia,PhilHealth,2023-04-11,2023-04-16,23,17113.5,5
+P0497,Female,O+,Orthopedics,Dr. Aquino,Stroke,Senior Citizen Discount,2024-06-16,2024-06-25,30,33563.36,9
+P0498,Male,B+,General Surgery,Dr. Cruz,Pneumonia,PhilHealth,2023-02-27,2023-03-08,60,29750.39,9
+P0499,Female,B+,Dermatology,Dr. Cruz,Hypertension,PhilHealth,2024-01-24,2024-01-31,18,31078.87,7
+P0500,Female,O+,Neurology,Dr. Santos,Migraine,Private Pay,2024-11-22,2024-12-04,56,22066.68,12
+P0501,Female,B+,Oncology,Dr. Cruz,Skin Infection,Private Pay,2023-12-07,2023-12-16,53,26275.39,9
+P0502,Female,B+,Oncology,Dr. Garcia,Stroke,PhilHealth,2023-01-20,2023-01-26,7,21024.98,6
+P0503,Male,A+,Orthopedics,Dr. Lopez,Heart Attack,HMO,2023-09-12,2023-09-14,69,10477.42,2
+P0504,Female,B+,Dermatology,Dr. Cruz,Migraine,PhilHealth,2023-11-13,2023-11-22,72,20629.62,9
+P0505,Female,B+,Emergency,Dr. Ramos,Migraine,Private Pay,2023-02-07,2023-02-24,79,61379.21,17
+P0506,Male,B+,Cardiology,Dr. Lopez,Fracture,PhilHealth,2024-10-21,2024-10-22,52,6984.89,1
+P0507,Female,AB+,Oncology,Dr. Cruz,Heart Attack,PhilHealth,2024-06-20,2024-07-09,4,38524.97,19
+P0508,Female,B-,Neurology,Dr. Ramos,Skin Infection,Private Pay,2024-01-21,2024-01-27,34,20355.94,6
+P0509,Female,AB-,Oncology,Dr. Ramos,Heart Attack,HMO,2024-09-24,2024-09-29,69,15128.61,5
+P0510,Female,O+,General Surgery,Dr. Torres,Stroke,Private Pay,2023-01-26,2023-01-28,33,13584.08,2
+P0511,Female,O+,Cardiology,Dr. Reyes,Appendicitis,HMO,2024-03-29,2024-04-07,69,14939.17,9
+P0512,Male,O+,General Surgery,Dr. Santos,Hypertension,PhilHealth,2024-11-11,2024-11-25,38,30829.82,14
+P0513,Female,O+,Neurology,Dr. Garcia,Pneumonia,HMO,2023-11-19,2023-11-23,26,21338.76,4
+P0514,Female,A+,Orthopedics,Dr. Mendoza,Appendicitis,PhilHealth,2024-05-27,2024-05-31,1,11354.3,4
+P0515,Male,A+,Orthopedics,Dr. Aquino,Hypertension,PhilHealth,2023-01-13,2023-01-28,4,34050.9,15
+P0516,Male,A+,General Surgery,Dr. Cruz,Appendicitis,PhilHealth,2024-07-13,2024-07-21,39,24844.95,8
+P0517,Male,O+,Cardiology,Dr. Cruz,Pneumonia,Private Pay,2024-01-06,2024-01-10,54,14019.38,4
+P0518,Female,O+,Neurology,Dr. Lopez,Asthma,Senior Citizen Discount,2023-10-18,2023-11-03,33,52811.39,16
+P0519,Female,A+,Pediatrics,Dr. Lopez,Heart Attack,Indigent,2023-11-28,2023-12-02,33,13903.03,4
+P0520,Male,O+,Pediatrics,Dr. Aquino,Appendicitis,HMO,2024-08-28,2024-09-13,72,53020.83,16
+P0521,Female,A+,Pediatrics,Dr. Cruz,Stroke,PhilHealth,2023-09-18,2023-09-30,20,40298.02,12
+P0522,Male,O+,Cardiology,Dr. Flores,Skin Infection,HMO,2023-07-24,2023-08-09,16,33541.35,16
+P0523,Female,B+,Emergency,Dr. Garcia,Diabetes,Private Pay,2024-11-27,2024-12-16,21,39941.85,19
+P0524,Female,A+,Emergency,Dr. Cruz,Stroke,PhilHealth,2024-11-17,2024-11-25,45,25609.68,8
+P0525,Female,B+,Oncology,Dr. Reyes,Pneumonia,Indigent,2024-01-22,2024-01-28,87,18233.96,6
+P0526,Male,A+,Emergency,Dr. Aquino,Skin Infection,PhilHealth,2024-04-12,2024-04-22,82,33322.48,10
+P0527,Male,A-,Emergency,Dr. Flores,Stroke,Indigent,2024-02-19,2024-02-24,62,17102.12,5
+P0528,Male,A-,Dermatology,Dr. Garcia,Migraine,Private Pay,2023-03-10,2023-03-28,31,45976.36,18
+P0529,Male,O+,Cardiology,Dr. Cruz,Heart Attack,Private Pay,2024-04-16,2024-04-26,42,21296.78,10
+P0530,Female,B-,Dermatology,Dr. Mendoza,Skin Infection,PhilHealth,2023-04-14,2023-04-24,12,23536.22,10
+P0531,Female,A-,Pediatrics,Dr. Torres,Migraine,PhilHealth,2023-06-10,2023-06-17,65,22524.78,7
+P0532,Female,O+,Oncology,Dr. Reyes,Stroke,PhilHealth,2023-07-19,2023-08-06,73,51492.91,18
+P0533,Female,O+,Emergency,Dr. Mendoza,Hypertension,PhilHealth,2023-08-04,2023-08-05,3,1982.23,1
+P0534,Female,A+,Cardiology,Dr. Lopez,Fracture,PhilHealth,2023-07-31,2023-08-07,9,17530.24,7
+P0535,Female,B+,Pediatrics,Dr. Lopez,Hypertension,HMO,2024-05-22,2024-05-23,51,11277.2,1
+P0536,Female,A+,Oncology,Dr. Cruz,Heart Attack,HMO,2023-01-16,2023-01-31,16,53319.85,15
+P0537,Female,A+,Pediatrics,Dr. Lopez,Skin Infection,HMO,2024-05-12,2024-05-16,88,14570.35,4
+P0538,Male,O+,Cardiology,Dr. Reyes,Skin Infection,HMO,2023-11-28,2023-12-18,78,54860.22,20
+P0539,Male,A+,Pediatrics,Dr. Garcia,Heart Attack,PhilHealth,2024-12-17,2024-12-27,3,38175.88,10
+P0540,Male,B+,Oncology,Dr. Ramos,Migraine,Indigent,2024-07-04,2024-07-13,24,20014.52,9
+P0541,Female,O+,Pediatrics,Dr. Santos,Fracture,PhilHealth,2024-08-23,2024-08-25,73,10791.1,2
+P0542,Female,A+,Oncology,Dr. Aquino,Stroke,HMO,2023-09-13,2023-09-27,13,26974.27,14
+P0543,Male,AB+,Oncology,Dr. Garcia,Pneumonia,HMO,2024-12-28,2025-01-13,2,46791.81,16
+P0544,Female,A+,Orthopedics,Dr. Ramos,Hypertension,Private Pay,2023-06-21,2023-06-22,71,5681.29,1
+P0545,Female,O-,Cardiology,Dr. Flores,Hypertension,PhilHealth,2024-10-10,2024-10-12,21,15326.66,2
+P0546,Male,B+,Neurology,Dr. Reyes,Diabetes,HMO,2024-05-12,2024-05-19,19,30328.95,7
+P0547,Male,O+,Cardiology,Dr. Mendoza,Fracture,HMO,2024-04-15,2024-04-25,89,36197.61,10
+P0548,Female,AB+,Neurology,Dr. Ramos,Pneumonia,PhilHealth,2024-01-19,2024-02-08,47,62234.64,20
+P0549,Female,A+,Neurology,Dr. Reyes,Hypertension,HMO,2024-11-20,2024-11-21,22,5325.01,1
+P0550,Female,O+,Cardiology,Dr. Torres,Pneumonia,Senior Citizen Discount,2024-08-11,2024-08-24,75,37134.81,13
+P0551,Female,O+,Emergency,Dr. Mendoza,Stroke,Indigent,2024-11-30,2024-12-01,33,11782.56,1
+P0552,Female,AB-,Cardiology,Dr. Lopez,Skin Infection,PhilHealth,2024-05-21,2024-05-26,32,21573.68,5
+P0553,Female,O+,Oncology,Dr. Lopez,Pneumonia,PhilHealth,2024-06-10,2024-06-26,64,40211.17,16
+P0554,Female,O+,Dermatology,Dr. Mendoza,Hypertension,PhilHealth,2023-11-21,2023-12-06,85,56786.15,15
+P0555,Female,A+,Cardiology,Dr. Flores,Migraine,PhilHealth,2023-08-02,2023-08-19,39,52304.12,17
+P0556,Male,A+,Dermatology,Dr. Flores,Fracture,PhilHealth,2023-07-27,2023-08-12,84,43056.6,16
+P0557,Male,O+,Orthopedics,Dr. Flores,Heart Attack,PhilHealth,2023-06-18,2023-07-01,72,36669.52,13
+P0558,Male,B+,Emergency,Dr. Ramos,Appendicitis,Indigent,2023-11-26,2023-12-07,42,27006.78,11
+P0559,Female,O+,Cardiology,Dr. Aquino,Asthma,Senior Citizen Discount,2023-10-07,2023-10-24,9,30480.25,17
+P0560,Female,O+,Orthopedics,Dr. Ramos,Asthma,PhilHealth,2023-11-01,2023-11-18,25,37129.67,17
+P0561,Female,B+,Oncology,Dr. Cruz,Appendicitis,PhilHealth,2023-05-26,2023-05-28,89,12070.77,2
+P0562,Male,A+,Pediatrics,Dr. Santos,Pneumonia,HMO,2024-05-30,2024-06-12,2,33572.2,13
+P0563,Male,O+,Cardiology,Dr. Mendoza,Fracture,PhilHealth,2023-03-31,2023-04-14,19,35587.21,14
+P0564,Male,A+,Cardiology,Dr. Garcia,Pneumonia,HMO,2024-03-28,2024-04-08,20,38975.31,11
+P0565,Male,O+,Neurology,Dr. Santos,Heart Attack,HMO,2023-03-01,2023-03-11,70,29527.15,10
+P0566,Female,B+,Emergency,Dr. Torres,Fracture,Senior Citizen Discount,2023-11-07,2023-11-10,17,13446.43,3
+P0567,Male,O+,Emergency,Dr. Ramos,Appendicitis,Private Pay,2024-06-11,2024-06-28,89,35215.48,17
+P0568,Male,A+,Emergency,Dr. Ramos,Pneumonia,HMO,2023-08-15,2023-08-30,68,28058.18,15
+P0569,Female,O+,Oncology,Dr. Reyes,Diabetes,Private Pay,2024-04-18,2024-04-27,84,31399.37,9
+P0570,Male,B+,General Surgery,Dr. Santos,Hypertension,PhilHealth,2024-06-24,2024-07-04,3,29262.19,10
+P0571,Female,AB+,Neurology,Dr. Reyes,Migraine,HMO,2024-10-24,2024-11-01,87,28308.37,8
+P0572,Female,A+,General Surgery,Dr. Garcia,Skin Infection,HMO,2023-03-20,2023-04-02,51,24156.26,13
+P0573,Male,O+,Emergency,Dr. Reyes,Migraine,PhilHealth,2024-03-08,2024-03-26,82,51113.71,18
+P0574,Female,O+,Neurology,Dr. Santos,Heart Attack,PhilHealth,2023-06-02,2023-06-07,26,14414.55,5
+P0575,Female,A+,Emergency,Dr. Mendoza,Pneumonia,PhilHealth,2024-02-05,2024-02-11,56,17956.5,6
+P0576,Female,A+,Pediatrics,Dr. Torres,Stroke,Senior Citizen Discount,2023-10-06,2023-10-23,64,30812.03,17
+P0577,Male,A+,Dermatology,Dr. Ramos,Fracture,PhilHealth,2023-02-26,2023-03-09,8,25957.34,11
+P0578,Female,O+,Orthopedics,Dr. Garcia,Pneumonia,PhilHealth,2023-07-05,2023-07-25,81,50068.99,20
+P0579,Female,AB-,Emergency,Dr. Ramos,Fracture,PhilHealth,2024-02-02,2024-02-18,37,34856.46,16
+P0580,Male,B-,Pediatrics,Dr. Cruz,Skin Infection,Private Pay,2024-08-27,2024-09-05,27,37186.47,9
+P0581,Male,A+,Cardiology,Dr. Torres,Diabetes,PhilHealth,2023-06-07,2023-06-09,45,9258.26,2
+P0582,Female,B+,General Surgery,Dr. Aquino,Migraine,Indigent,2024-11-23,2024-11-28,4,11841.66,5
+P0583,Female,AB+,Orthopedics,Dr. Reyes,Hypertension,Senior Citizen Discount,2023-12-25,2023-12-26,86,8378.05,1
+P0584,Male,B+,Neurology,Dr. Lopez,Skin Infection,HMO,2024-03-15,2024-03-19,88,19061.12,4
+P0585,Female,O-,Orthopedics,Dr. Santos,Skin Infection,Private Pay,2024-08-11,2024-08-15,37,12196.56,4
+P0586,Male,A+,Orthopedics,Dr. Ramos,Migraine,PhilHealth,2024-04-10,2024-04-13,71,18509.12,3
+P0587,Male,O+,Cardiology,Dr. Reyes,Skin Infection,PhilHealth,2024-10-24,2024-11-02,33,32755.85,9
+P0588,Male,B+,Pediatrics,Dr. Garcia,Stroke,Private Pay,2024-03-21,2024-04-02,31,26613.61,12
+P0589,Male,B+,Emergency,Dr. Ramos,Stroke,PhilHealth,2024-05-02,2024-05-12,55,30712.31,10
+P0590,Male,O+,Pediatrics,Dr. Aquino,Asthma,PhilHealth,2024-06-13,2024-06-15,12,8617.12,2
+P0591,Male,O+,Oncology,Dr. Torres,Asthma,HMO,2023-03-14,2023-03-25,11,38223.19,11
+P0592,Female,O-,Oncology,Dr. Torres,Stroke,PhilHealth,2024-12-01,2024-12-11,88,28247.58,10
+P0593,Male,A+,Orthopedics,Dr. Ramos,Appendicitis,Senior Citizen Discount,2023-01-17,2023-01-23,72,15504.75,6
+P0594,Male,A+,Orthopedics,Dr. Garcia,Diabetes,PhilHealth,2024-06-14,2024-07-02,32,39018.95,18
+P0595,Female,O+,Cardiology,Dr. Torres,Fracture,Private Pay,2023-11-22,2023-11-24,57,7550.72,2
+P0596,Male,AB+,Oncology,Dr. Torres,Diabetes,HMO,2024-09-23,2024-09-25,38,7407.69,2
+P0597,Female,A+,Emergency,Dr. Aquino,Heart Attack,Private Pay,2024-09-04,2024-09-14,60,25538.07,10
+P0598,Male,A+,Neurology,Dr. Santos,Skin Infection,PhilHealth,2024-06-29,2024-07-15,86,52797.07,16
+P0599,Male,A+,Emergency,Dr. Garcia,Hypertension,HMO,2024-08-18,2024-08-30,19,37287.74,12
+P0600,Male,O+,Cardiology,Dr. Garcia,Skin Infection,Senior Citizen Discount,2024-12-08,2024-12-09,84,4775.19,1
+P0601,Male,A+,Orthopedics,Dr. Mendoza,Diabetes,HMO,2023-07-21,2023-07-29,56,18162.81,8
+P0602,Male,A-,Cardiology,Dr. Mendoza,Stroke,PhilHealth,2023-12-10,2023-12-26,14,51691.33,16
+P0603,Male,A+,Pediatrics,Dr. Torres,Migraine,HMO,2024-06-06,2024-06-24,33,58599.67,18
+P0604,Male,B+,Emergency,Dr. Lopez,Heart Attack,Private Pay,2024-02-04,2024-02-17,10,26322.84,13
+P0605,Male,A+,Cardiology,Dr. Mendoza,Stroke,HMO,2023-08-06,2023-08-21,80,46173.13,15
+P0606,Male,B+,Orthopedics,Dr. Torres,Diabetes,Senior Citizen Discount,2024-03-20,2024-04-01,64,33656.73,12
+P0607,Male,A+,Cardiology,Dr. Flores,Migraine,PhilHealth,2023-08-10,2023-08-18,64,30839.45,8
+P0608,Male,O+,Emergency,Dr. Cruz,Hypertension,HMO,2024-01-18,2024-01-28,62,25799.71,10
+P0609,Female,A+,Pediatrics,Dr. Cruz,Diabetes,Private Pay,2024-08-14,2024-08-28,68,42529.71,14
+P0610,Female,B-,Cardiology,Dr. Garcia,Fracture,Private Pay,2023-01-07,2023-01-12,43,13521.34,5
+P0611,Male,O+,Oncology,Dr. Lopez,Pneumonia,Senior Citizen Discount,2023-09-29,2023-10-17,80,62139.5,18
+P0612,Female,O+,Cardiology,Dr. Aquino,Migraine,Indigent,2023-01-16,2023-02-04,59,45977.47,19
+P0613,Female,B-,Emergency,Dr. Santos,Diabetes,HMO,2024-02-28,2024-03-14,52,55241.72,15
+P0614,Male,A-,Pediatrics,Dr. Mendoza,Stroke,PhilHealth,2024-06-07,2024-06-13,19,21960.02,6
+P0615,Female,B+,Emergency,Dr. Flores,Fracture,PhilHealth,2023-01-21,2023-02-01,21,29826.88,11
+P0616,Female,O+,Cardiology,Dr. Torres,Appendicitis,Private Pay,2024-11-20,2024-12-01,22,40512.41,11
+P0617,Male,O-,Emergency,Dr. Lopez,Migraine,Senior Citizen Discount,2023-08-16,2023-09-05,9,74767.73,20
+P0618,Male,O+,Emergency,Dr. Garcia,Fracture,PhilHealth,2023-10-15,2023-11-04,9,47835.17,20
+P0619,Female,AB+,Oncology,Dr. Mendoza,Stroke,PhilHealth,2023-05-14,2023-06-01,73,49049.05,18
+P0620,Female,O+,Emergency,Dr. Lopez,Diabetes,PhilHealth,2023-10-10,2023-10-28,27,49080.79,18
+P0621,Male,B+,Oncology,Dr. Mendoza,Skin Infection,Private Pay,2024-02-08,2024-02-18,17,23820.18,10
+P0622,Male,A+,General Surgery,Dr. Santos,Hypertension,PhilHealth,2024-10-26,2024-10-28,44,9697.02,2
+P0623,Male,AB+,Neurology,Dr. Santos,Skin Infection,HMO,2023-03-07,2023-03-16,45,23255.06,9
+P0624,Female,O+,General Surgery,Dr. Aquino,Pneumonia,HMO,2024-10-10,2024-10-24,8,34233.73,14
+P0625,Female,A+,Emergency,Dr. Cruz,Fracture,Private Pay,2024-08-26,2024-09-14,80,48663.79,19
+P0626,Male,O+,Dermatology,Dr. Reyes,Pneumonia,Private Pay,2024-03-12,2024-03-22,18,24637.94,10
+P0627,Male,A+,Cardiology,Dr. Reyes,Hypertension,HMO,2023-09-16,2023-09-20,33,16475.04,4
+P0628,Female,B-,Pediatrics,Dr. Mendoza,Fracture,PhilHealth,2023-04-13,2023-04-19,1,22254.96,6
+P0629,Male,A+,Neurology,Dr. Aquino,Asthma,HMO,2024-07-20,2024-08-03,76,31279.5,14
+P0630,Male,B+,Neurology,Dr. Reyes,Stroke,Private Pay,2023-04-11,2023-04-15,6,14879.07,4
+P0631,Female,O+,Orthopedics,Dr. Garcia,Fracture,Indigent,2023-07-17,2023-08-01,41,43963.72,15
+P0632,Female,B+,Pediatrics,Dr. Reyes,Stroke,PhilHealth,2023-08-14,2023-08-30,55,57493.98,16
+P0633,Female,O+,Cardiology,Dr. Ramos,Skin Infection,PhilHealth,2024-04-07,2024-04-14,5,17530.89,7
+P0634,Female,O+,Cardiology,Dr. Torres,Heart Attack,PhilHealth,2023-08-25,2023-09-11,59,39439.17,17
+P0635,Male,O+,Pediatrics,Dr. Aquino,Migraine,PhilHealth,2023-01-26,2023-02-14,80,68498.32,19
+P0636,Male,A+,Pediatrics,Dr. Garcia,Heart Attack,Private Pay,2023-05-01,2023-05-20,18,67902.9,19
+P0637,Female,B+,Dermatology,Dr. Lopez,Diabetes,PhilHealth,2024-05-20,2024-06-06,49,55970.66,17
+P0638,Male,A+,Oncology,Dr. Garcia,Migraine,HMO,2023-07-01,2023-07-07,82,21490.95,6
+P0639,Male,O-,Dermatology,Dr. Cruz,Migraine,PhilHealth,2024-12-11,2024-12-22,65,24123.96,11
+P0640,Male,O+,Pediatrics,Dr. Lopez,Appendicitis,PhilHealth,2024-09-25,2024-10-11,83,43981.52,16
+P0641,Male,B-,Emergency,Dr. Flores,Migraine,HMO,2024-06-26,2024-07-04,54,18910.01,8
+P0642,Male,O+,Cardiology,Dr. Torres,Hypertension,PhilHealth,2023-11-11,2023-11-22,61,24211.82,11
+P0643,Male,B+,Oncology,Dr. Torres,Heart Attack,PhilHealth,2024-09-09,2024-09-16,8,26093.43,7
+P0644,Male,O+,Pediatrics,Dr. Torres,Skin Infection,Private Pay,2023-09-30,2023-10-19,3,38533.79,19
+P0645,Male,A+,Cardiology,Dr. Torres,Stroke,HMO,2023-08-20,2023-08-30,25,29843.94,10
+P0646,Female,O+,Emergency,Dr. Mendoza,Diabetes,PhilHealth,2024-02-24,2024-03-04,69,28017.68,9
+P0647,Female,A+,Dermatology,Dr. Torres,Migraine,Indigent,2024-03-17,2024-03-21,55,10871.36,4
+P0648,Female,O+,Orthopedics,Dr. Torres,Diabetes,HMO,2024-05-10,2024-05-25,40,56056.66,15
+P0649,Female,O+,Neurology,Dr. Torres,Skin Infection,Private Pay,2023-01-24,2023-02-06,83,53361.61,13
+P0650,Female,O+,Neurology,Dr. Aquino,Diabetes,PhilHealth,2023-04-19,2023-04-21,82,8062.46,2
+P0651,Male,A+,Emergency,Dr. Mendoza,Skin Infection,PhilHealth,2024-12-03,2024-12-05,50,9006.16,2
+P0652,Female,A-,Emergency,Dr. Santos,Migraine,PhilHealth,2024-05-16,2024-06-01,33,42105.42,16
+P0653,Female,A+,Emergency,Dr. Garcia,Skin Infection,PhilHealth,2023-01-25,2023-02-03,18,23514.93,9
+P0654,Female,B+,Cardiology,Dr. Garcia,Migraine,HMO,2023-07-06,2023-07-19,57,33330.38,13
+P0655,Male,A+,Oncology,Dr. Lopez,Appendicitis,Senior Citizen Discount,2023-10-15,2023-10-18,16,9579.27,3
+P0656,Male,O+,Neurology,Dr. Aquino,Appendicitis,HMO,2024-09-19,2024-09-28,80,34990.87,9
+P0657,Male,AB+,Oncology,Dr. Ramos,Skin Infection,PhilHealth,2023-12-04,2023-12-17,38,26881.26,13
+P0658,Male,A-,Oncology,Dr. Garcia,Appendicitis,HMO,2023-02-06,2023-02-08,41,9469.6,2
+P0659,Female,B+,Emergency,Dr. Reyes,Stroke,PhilHealth,2023-05-17,2023-05-25,7,22450.39,8
+P0660,Female,B+,Pediatrics,Dr. Ramos,Stroke,HMO,2024-05-22,2024-05-31,78,30920.2,9
+P0661,Male,AB-,Neurology,Dr. Torres,Appendicitis,HMO,2023-08-15,2023-08-31,53,60513.65,16
+P0662,Female,B+,General Surgery,Dr. Torres,Appendicitis,Private Pay,2023-11-16,2023-11-18,63,10135.72,2
+P0663,Female,O+,Emergency,Dr. Mendoza,Asthma,Indigent,2023-07-01,2023-07-07,89,13013.8,6
+P0664,Male,B+,Pediatrics,Dr. Ramos,Asthma,PhilHealth,2023-03-27,2023-04-04,32,28216.79,8
+P0665,Male,O-,Orthopedics,Dr. Reyes,Migraine,HMO,2024-04-11,2024-04-16,38,21771.87,5
+P0666,Male,O+,Emergency,Dr. Mendoza,Skin Infection,Senior Citizen Discount,2023-02-22,2023-03-03,22,29177.75,9
+P0667,Male,A+,Cardiology,Dr. Lopez,Pneumonia,Private Pay,2023-08-23,2023-08-24,16,9069.29,1
+P0668,Male,O+,Pediatrics,Dr. Ramos,Pneumonia,HMO,2024-03-08,2024-03-17,52,24448.32,9
+P0669,Male,A+,Pediatrics,Dr. Aquino,Appendicitis,Senior Citizen Discount,2024-05-10,2024-05-20,29,42822.46,10
+P0670,Male,O+,Emergency,Dr. Torres,Diabetes,PhilHealth,2023-04-10,2023-04-14,16,17550.83,4
+P0671,Male,B+,Pediatrics,Dr. Torres,Appendicitis,Senior Citizen Discount,2024-08-21,2024-08-24,76,10048.68,3
+P0672,Female,O+,Neurology,Dr. Cruz,Asthma,PhilHealth,2024-02-07,2024-02-17,17,36200.62,10
+P0673,Male,O+,Pediatrics,Dr. Mendoza,Migraine,HMO,2024-01-31,2024-02-15,64,43940.85,15
+P0674,Female,O+,Emergency,Dr. Santos,Appendicitis,Senior Citizen Discount,2024-06-10,2024-06-21,89,27179.75,11
+P0675,Male,O+,General Surgery,Dr. Santos,Heart Attack,PhilHealth,2024-02-19,2024-03-04,13,26252.61,14
+P0676,Female,A-,Emergency,Dr. Mendoza,Diabetes,HMO,2024-09-04,2024-09-10,72,19295.66,6
+P0677,Male,A+,Emergency,Dr. Aquino,Heart Attack,PhilHealth,2024-11-07,2024-11-19,56,35012.83,12
+P0678,Male,B+,Cardiology,Dr. Flores,Migraine,Indigent,2024-04-07,2024-04-20,5,25100.57,13
+P0679,Female,A+,Cardiology,Dr. Mendoza,Migraine,Private Pay,2024-06-24,2024-07-11,12,47490.47,17
+P0680,Female,O+,Orthopedics,Dr. Aquino,Stroke,Private Pay,2024-09-17,2024-10-03,41,52898.26,16
+P0681,Female,B+,Emergency,Dr. Lopez,Fracture,HMO,2024-09-10,2024-09-13,3,9834.26,3
+P0682,Male,O-,Oncology,Dr. Torres,Heart Attack,Private Pay,2023-12-30,2024-01-01,33,14629.59,2
+P0683,Male,O+,Cardiology,Dr. Reyes,Stroke,PhilHealth,2023-05-10,2023-05-21,86,39515.76,11
+P0684,Female,O+,Emergency,Dr. Flores,Asthma,HMO,2023-03-25,2023-04-03,50,16706.5,9
+P0685,Female,A+,Emergency,Dr. Ramos,Hypertension,Private Pay,2023-09-28,2023-10-01,56,15049.73,3
+P0686,Female,O+,Cardiology,Dr. Flores,Diabetes,PhilHealth,2023-09-01,2023-09-19,9,59575.58,18
+P0687,Female,O+,Cardiology,Dr. Reyes,Hypertension,PhilHealth,2024-01-23,2024-02-12,82,56526.64,20
+P0688,Male,B+,Neurology,Dr. Cruz,Skin Infection,PhilHealth,2023-08-02,2023-08-17,50,38182.45,15
+P0689,Female,AB-,Neurology,Dr. Torres,Asthma,PhilHealth,2023-06-15,2023-06-29,29,31982.18,14
+P0690,Male,O+,Neurology,Dr. Santos,Asthma,Senior Citizen Discount,2023-02-28,2023-03-02,39,10883.33,2
+P0691,Male,A+,Orthopedics,Dr. Aquino,Hypertension,HMO,2024-08-24,2024-09-10,45,49545.83,17
+P0692,Male,B+,Orthopedics,Dr. Mendoza,Heart Attack,Private Pay,2024-05-18,2024-05-26,17,26778.24,8
+P0693,Female,B+,Cardiology,Dr. Mendoza,Fracture,PhilHealth,2024-12-06,2024-12-16,56,33236.62,10
+P0694,Male,A+,Neurology,Dr. Santos,Heart Attack,PhilHealth,2023-05-03,2023-05-21,46,54591.86,18
+P0695,Male,B+,Dermatology,Dr. Flores,Hypertension,PhilHealth,2024-10-09,2024-10-28,67,66806.47,19
+P0696,Female,A+,Orthopedics,Dr. Torres,Skin Infection,Private Pay,2024-02-17,2024-02-25,69,27830.58,8
+P0697,Male,A+,Pediatrics,Dr. Garcia,Heart Attack,HMO,2023-05-19,2023-05-27,14,22023.07,8
+P0698,Female,A+,Emergency,Dr. Aquino,Pneumonia,Senior Citizen Discount,2023-08-17,2023-08-20,67,13907.48,3
+P0699,Male,O-,Oncology,Dr. Lopez,Heart Attack,Private Pay,2023-10-01,2023-10-04,23,16104.65,3
+P0700,Female,B-,Oncology,Dr. Reyes,Migraine,HMO,2024-03-14,2024-03-26,61,33251.4,12
+P0701,Female,O-,Orthopedics,Dr. Flores,Stroke,HMO,2024-07-15,2024-08-01,23,41636.74,17
+P0702,Male,B+,Dermatology,Dr. Ramos,Diabetes,Senior Citizen Discount,2023-04-28,2023-05-02,27,10797.49,4
+P0703,Male,A-,Cardiology,Dr. Cruz,Heart Attack,Private Pay,2024-12-14,2024-12-31,54,61587.73,17
+P0704,Male,B+,Cardiology,Dr. Mendoza,Fracture,PhilHealth,2024-04-27,2024-05-11,10,28466.5,14
+P0705,Male,B+,Oncology,Dr. Flores,Fracture,HMO,2024-01-30,2024-02-18,89,59631.44,19
+P0706,Female,A+,Oncology,Dr. Cruz,Heart Attack,Private Pay,2024-12-03,2024-12-12,77,21907.7,9
+P0707,Male,O+,Cardiology,Dr. Reyes,Appendicitis,Private Pay,2024-04-04,2024-04-16,16,33403.52,12
+P0708,Female,A+,Emergency,Dr. Mendoza,Asthma,PhilHealth,2024-11-23,2024-11-28,41,18715.56,5
+P0709,Male,O+,Cardiology,Dr. Mendoza,Heart Attack,Senior Citizen Discount,2023-03-19,2023-03-30,55,21299.06,11
+P0710,Female,O+,Emergency,Dr. Garcia,Asthma,Indigent,2024-02-16,2024-03-07,61,57263.26,20
+P0711,Female,A+,Oncology,Dr. Flores,Pneumonia,PhilHealth,2023-03-16,2023-03-19,86,13703.12,3
+P0712,Female,A+,Orthopedics,Dr. Torres,Hypertension,Senior Citizen Discount,2023-10-22,2023-11-06,81,45144.21,15
+P0713,Male,O+,Emergency,Dr. Santos,Pneumonia,PhilHealth,2023-01-21,2023-02-04,87,29372.27,14
+P0714,Male,B+,Emergency,Dr. Santos,Heart Attack,PhilHealth,2023-06-20,2023-07-01,49,39491.59,11
+P0715,Male,A+,Cardiology,Dr. Lopez,Fracture,PhilHealth,2023-01-15,2023-02-04,73,62311.41,20
+P0716,Female,O-,Emergency,Dr. Ramos,Appendicitis,PhilHealth,2023-07-30,2023-08-07,52,29498.62,8
+P0717,Female,A+,Pediatrics,Dr. Cruz,Skin Infection,Private Pay,2024-07-13,2024-07-17,2,14452.02,4
+P0718,Female,O+,Dermatology,Dr. Flores,Asthma,PhilHealth,2023-03-27,2023-04-08,50,39093.35,12
+P0719,Male,O-,Oncology,Dr. Aquino,Stroke,PhilHealth,2023-05-29,2023-06-06,86,33693.32,8
+P0720,Female,A+,Cardiology,Dr. Ramos,Asthma,PhilHealth,2024-11-30,2024-12-06,43,26603.46,6
+P0721,Female,A+,General Surgery,Dr. Garcia,Migraine,PhilHealth,2024-01-07,2024-01-22,77,39945.08,15
+P0722,Male,A+,Oncology,Dr. Mendoza,Diabetes,PhilHealth,2024-04-24,2024-05-06,8,30671.97,12
+P0723,Male,A-,Oncology,Dr. Torres,Heart Attack,Private Pay,2023-05-31,2023-06-16,59,41113.66,16
+P0724,Female,A+,Neurology,Dr. Flores,Pneumonia,PhilHealth,2023-05-21,2023-06-06,65,41016.27,16
+P0725,Female,O+,Neurology,Dr. Ramos,Stroke,Senior Citizen Discount,2023-03-10,2023-03-30,81,47294.05,20
+P0726,Female,A+,Emergency,Dr. Ramos,Fracture,Private Pay,2023-09-17,2023-10-07,12,44549.2,20
+P0727,Male,B+,Cardiology,Dr. Torres,Fracture,PhilHealth,2024-06-04,2024-06-08,4,20874.51,4
+P0728,Female,O-,Emergency,Dr. Lopez,Fracture,Senior Citizen Discount,2024-09-24,2024-10-05,77,22716.7,11
+P0729,Male,O+,Emergency,Dr. Cruz,Skin Infection,PhilHealth,2024-01-06,2024-01-19,41,43354.61,13
+P0730,Male,O+,Neurology,Dr. Cruz,Migraine,PhilHealth,2024-02-23,2024-03-03,7,24521.96,9
+P0731,Male,A-,Pediatrics,Dr. Ramos,Fracture,PhilHealth,2023-04-11,2023-04-15,87,15819.35,4
+P0732,Female,O+,Neurology,Dr. Reyes,Fracture,PhilHealth,2024-10-22,2024-11-03,88,21659.19,12
+P0733,Female,B+,Cardiology,Dr. Ramos,Heart Attack,HMO,2024-10-19,2024-10-28,69,24249.32,9
+P0734,Female,B+,Dermatology,Dr. Ramos,Migraine,Private Pay,2023-08-31,2023-09-13,69,46180.39,13
+P0735,Male,A+,Dermatology,Dr. Torres,Appendicitis,PhilHealth,2024-05-26,2024-06-11,81,59104.22,16
+P0736,Female,O+,Oncology,Dr. Mendoza,Appendicitis,Private Pay,2024-07-08,2024-07-14,30,14431.74,6
+P0737,Male,B+,Dermatology,Dr. Torres,Migraine,PhilHealth,2023-04-05,2023-04-15,73,27956.89,10
+P0738,Female,A+,Orthopedics,Dr. Flores,Diabetes,Private Pay,2023-08-14,2023-08-27,6,38717.54,13
+P0739,Male,B+,Dermatology,Dr. Ramos,Skin Infection,PhilHealth,2024-06-01,2024-06-08,89,26206.53,7
+P0740,Male,B+,Cardiology,Dr. Cruz,Stroke,PhilHealth,2023-08-02,2023-08-21,19,61886.97,19
+P0741,Male,O+,Emergency,Dr. Aquino,Asthma,PhilHealth,2024-12-18,2025-01-06,80,56148.69,19
+P0742,Male,O+,Emergency,Dr. Cruz,Heart Attack,PhilHealth,2023-03-08,2023-03-25,85,53209.81,17
+P0743,Female,O+,Emergency,Dr. Santos,Hypertension,HMO,2024-01-31,2024-02-13,66,45077.68,13
+P0744,Female,A+,Cardiology,Dr. Lopez,Appendicitis,Private Pay,2024-09-03,2024-09-16,10,22992.78,13
+P0745,Male,B+,Orthopedics,Dr. Garcia,Migraine,PhilHealth,2023-01-12,2023-01-14,16,10277.0,2
+P0746,Female,B+,Oncology,Dr. Flores,Stroke,Private Pay,2023-08-25,2023-09-04,37,35478.57,10
+P0747,Male,A+,Orthopedics,Dr. Flores,Migraine,Private Pay,2024-02-03,2024-02-16,79,43253.47,13
+P0748,Female,A+,Cardiology,Dr. Lopez,Asthma,Senior Citizen Discount,2024-02-11,2024-02-20,77,28937.61,9
+P0749,Female,O+,Oncology,Dr. Aquino,Stroke,PhilHealth,2024-04-24,2024-04-25,77,10157.59,1
+P0750,Female,A+,Orthopedics,Dr. Garcia,Appendicitis,HMO,2024-10-08,2024-10-22,32,37072.66,14
+P0751,Male,B-,Neurology,Dr. Mendoza,Fracture,Senior Citizen Discount,2023-08-10,2023-08-26,47,44228.53,16
+P0752,Female,A+,Pediatrics,Dr. Ramos,Migraine,Private Pay,2023-06-05,2023-06-25,72,63572.17,20
+P0753,Female,A+,Emergency,Dr. Garcia,Hypertension,PhilHealth,2024-10-15,2024-10-30,43,39451.86,15
+P0754,Male,A+,Emergency,Dr. Aquino,Appendicitis,PhilHealth,2024-03-03,2024-03-04,82,5456.9,1
+P0755,Male,O-,General Surgery,Dr. Reyes,Pneumonia,PhilHealth,2023-06-07,2023-06-24,36,59437.81,17
+P0756,Female,O+,Emergency,Dr. Santos,Hypertension,HMO,2024-02-20,2024-03-04,26,31398.14,13
+P0757,Female,O+,Neurology,Dr. Garcia,Diabetes,Private Pay,2023-11-22,2023-12-07,10,41376.89,15
+P0758,Female,B+,General Surgery,Dr. Garcia,Skin Infection,PhilHealth,2024-01-06,2024-01-22,31,42081.69,16
+P0759,Female,A+,Pediatrics,Dr. Santos,Appendicitis,HMO,2023-12-10,2023-12-26,29,54273.3,16
+P0760,Female,B-,Cardiology,Dr. Ramos,Fracture,HMO,2023-09-19,2023-09-21,5,6136.76,2
+P0761,Male,B+,Cardiology,Dr. Garcia,Appendicitis,HMO,2023-10-10,2023-10-27,77,49697.33,17
+P0762,Male,O+,Cardiology,Dr. Santos,Asthma,Private Pay,2023-08-17,2023-08-28,1,37573.07,11
+P0763,Male,A+,Orthopedics,Dr. Santos,Stroke,Private Pay,2023-10-07,2023-10-15,87,24435.4,8
+P0764,Female,B+,Neurology,Dr. Santos,Migraine,PhilHealth,2023-10-17,2023-11-06,3,71773.61,20
+P0765,Male,A+,Cardiology,Dr. Torres,Stroke,Senior Citizen Discount,2024-11-10,2024-11-13,67,18544.46,3
+P0766,Female,A-,Dermatology,Dr. Aquino,Stroke,PhilHealth,2023-02-16,2023-02-28,71,26033.16,12
+P0767,Female,O+,Orthopedics,Dr. Torres,Appendicitis,PhilHealth,2024-12-15,2025-01-04,35,43513.81,20
+P0768,Female,B+,Emergency,Dr. Reyes,Asthma,PhilHealth,2023-08-02,2023-08-18,15,59415.74,16
+P0769,Male,B+,Orthopedics,Dr. Mendoza,Migraine,PhilHealth,2023-01-24,2023-02-07,67,53068.59,14
+P0770,Female,B+,Pediatrics,Dr. Torres,Migraine,PhilHealth,2023-11-17,2023-12-03,30,28783.11,16
+P0771,Male,B+,Cardiology,Dr. Torres,Stroke,PhilHealth,2023-10-01,2023-10-18,82,36430.61,17
+P0772,Female,O+,Emergency,Dr. Aquino,Diabetes,Private Pay,2024-07-09,2024-07-20,75,26083.94,11
+P0773,Male,O+,Oncology,Dr. Mendoza,Skin Infection,PhilHealth,2023-11-09,2023-11-26,43,64784.45,17
+P0774,Male,O+,Neurology,Dr. Lopez,Asthma,Private Pay,2023-12-29,2024-01-17,60,41570.31,19
+P0775,Female,O+,Orthopedics,Dr. Santos,Diabetes,PhilHealth,2024-10-29,2024-10-30,40,8923.92,1
+P0776,Male,A-,Neurology,Dr. Flores,Heart Attack,Senior Citizen Discount,2024-01-15,2024-01-27,65,43080.92,12
+P0777,Male,O+,Cardiology,Dr. Mendoza,Heart Attack,Private Pay,2024-12-11,2024-12-26,29,26849.57,15
+P0778,Female,B+,Cardiology,Dr. Reyes,Hypertension,PhilHealth,2024-11-04,2024-11-22,74,54960.5,18
+P0779,Female,A+,Neurology,Dr. Ramos,Stroke,Private Pay,2024-04-14,2024-04-28,19,34528.13,14
+P0780,Female,O+,Emergency,Dr. Reyes,Migraine,HMO,2024-11-05,2024-11-06,3,6604.89,1
+P0781,Female,A+,Cardiology,Dr. Santos,Appendicitis,Private Pay,2023-04-26,2023-05-09,36,34708.06,13
+P0782,Female,O+,Oncology,Dr. Mendoza,Migraine,HMO,2024-08-27,2024-09-11,43,48689.38,15
+P0783,Male,B+,Dermatology,Dr. Reyes,Migraine,HMO,2023-02-11,2023-02-18,15,26398.71,7
+P0784,Male,O+,Oncology,Dr. Reyes,Fracture,Private Pay,2024-01-14,2024-01-29,41,36928.65,15
+P0785,Male,O+,Oncology,Dr. Lopez,Migraine,HMO,2024-12-22,2025-01-11,80,36435.75,20
+P0786,Female,O+,Emergency,Dr. Lopez,Hypertension,PhilHealth,2023-07-25,2023-08-04,36,28818.9,10
+P0787,Female,O+,Dermatology,Dr. Mendoza,Diabetes,Private Pay,2024-04-10,2024-04-24,84,35717.46,14
+P0788,Male,O+,Emergency,Dr. Santos,Heart Attack,PhilHealth,2023-10-07,2023-10-13,77,22258.01,6
+P0789,Male,A+,Dermatology,Dr. Torres,Migraine,HMO,2024-10-09,2024-10-23,33,48518.3,14
+P0790,Female,B+,Dermatology,Dr. Cruz,Migraine,PhilHealth,2024-09-09,2024-09-21,5,34219.67,12
+P0791,Male,A+,Pediatrics,Dr. Garcia,Fracture,HMO,2023-04-28,2023-05-09,78,32931.15,11
+P0792,Female,O+,Dermatology,Dr. Flores,Asthma,Indigent,2023-08-25,2023-09-14,87,63805.65,20
+P0793,Female,B+,Orthopedics,Dr. Garcia,Appendicitis,PhilHealth,2023-11-05,2023-11-24,14,62117.42,19
+P0794,Female,O+,Emergency,Dr. Aquino,Asthma,PhilHealth,2024-03-31,2024-04-02,68,7103.8,2
+P0795,Male,A+,Neurology,Dr. Lopez,Appendicitis,Private Pay,2024-04-19,2024-05-09,83,48646.32,20
+P0796,Female,A+,Orthopedics,Dr. Mendoza,Skin Infection,Private Pay,2023-04-10,2023-04-11,47,8456.6,1
+P0797,Female,O+,Cardiology,Dr. Garcia,Migraine,HMO,2023-09-18,2023-09-26,54,23527.15,8
+P0798,Female,A+,Orthopedics,Dr. Santos,Fracture,PhilHealth,2023-11-01,2023-11-15,4,39790.73,14
+P0799,Female,A+,Dermatology,Dr. Flores,Pneumonia,Senior Citizen Discount,2023-12-20,2023-12-29,83,29357.87,9
+P0800,Female,A+,Emergency,Dr. Garcia,Stroke,Private Pay,2023-10-13,2023-10-15,9,8304.02,2
+P0801,Female,O+,Oncology,Dr. Flores,Heart Attack,PhilHealth,2023-11-24,2023-11-29,53,24883.68,5
+P0802,Male,O+,General Surgery,Dr. Ramos,Diabetes,PhilHealth,2023-04-13,2023-04-21,77,16971.66,8
+P0803,Female,B+,Dermatology,Dr. Santos,Heart Attack,HMO,2023-03-04,2023-03-20,78,36690.16,16
+P0804,Female,A-,Dermatology,Dr. Cruz,Diabetes,PhilHealth,2024-11-17,2024-12-03,60,44541.32,16
+P0805,Male,B+,Orthopedics,Dr. Reyes,Skin Infection,PhilHealth,2023-10-09,2023-10-22,46,32204.92,13
+P0806,Female,O+,Dermatology,Dr. Flores,Asthma,Senior Citizen Discount,2024-03-16,2024-04-05,54,57945.62,20
+P0807,Female,O+,Pediatrics,Dr. Santos,Hypertension,PhilHealth,2023-10-20,2023-11-04,74,38063.02,15
+P0808,Female,A+,Cardiology,Dr. Flores,Migraine,Private Pay,2023-01-07,2023-01-08,37,8286.11,1
+P0809,Male,A+,Neurology,Dr. Flores,Pneumonia,PhilHealth,2024-09-30,2024-10-03,23,14354.52,3
+P0810,Male,A+,Pediatrics,Dr. Torres,Diabetes,Private Pay,2023-04-02,2023-04-08,27,17647.37,6
+P0811,Female,O+,Emergency,Dr. Torres,Stroke,Private Pay,2023-07-09,2023-07-23,70,32441.16,14
+P0812,Female,O+,Pediatrics,Dr. Santos,Diabetes,PhilHealth,2024-04-20,2024-04-24,66,16005.64,4
+P0813,Male,A+,Pediatrics,Dr. Torres,Hypertension,HMO,2024-05-25,2024-06-12,61,47158.51,18
+P0814,Female,A+,Cardiology,Dr. Aquino,Heart Attack,PhilHealth,2024-04-06,2024-04-21,77,37982.78,15
+P0815,Female,A+,Orthopedics,Dr. Cruz,Fracture,Senior Citizen Discount,2023-02-22,2023-03-03,51,18368.79,9
+P0816,Female,O-,Oncology,Dr. Mendoza,Heart Attack,Senior Citizen Discount,2024-04-30,2024-05-18,50,51957.59,18
+P0817,Female,A-,Neurology,Dr. Santos,Skin Infection,HMO,2024-10-05,2024-10-08,19,13040.99,3
+P0818,Male,O+,Cardiology,Dr. Santos,Fracture,HMO,2024-05-04,2024-05-14,1,36390.54,10
+P0819,Male,O+,Cardiology,Dr. Aquino,Heart Attack,PhilHealth,2023-12-30,2024-01-16,40,54925.87,17
+P0820,Male,B+,Emergency,Dr. Lopez,Stroke,Private Pay,2023-04-22,2023-04-29,32,18104.13,7
+P0821,Female,A+,General Surgery,Dr. Lopez,Heart Attack,PhilHealth,2024-02-13,2024-02-28,22,35279.06,15
+P0822,Male,A+,Emergency,Dr. Torres,Stroke,PhilHealth,2023-01-07,2023-01-08,66,6845.84,1
+P0823,Male,O+,Orthopedics,Dr. Mendoza,Stroke,HMO,2024-10-29,2024-11-09,40,42222.08,11
+P0824,Male,O+,Emergency,Dr. Torres,Fracture,PhilHealth,2023-07-16,2023-08-02,38,37377.29,17
+P0825,Female,O+,Emergency,Dr. Ramos,Asthma,Private Pay,2024-01-02,2024-01-07,48,17704.44,5
+P0826,Female,B-,Oncology,Dr. Ramos,Appendicitis,PhilHealth,2023-09-07,2023-09-14,55,16911.55,7
+P0827,Male,A+,Pediatrics,Dr. Reyes,Migraine,HMO,2024-08-17,2024-09-05,75,33932.61,19
+P0828,Male,O-,Cardiology,Dr. Ramos,Diabetes,PhilHealth,2023-08-28,2023-09-12,81,36364.7,15
+P0829,Female,O+,Neurology,Dr. Lopez,Appendicitis,PhilHealth,2024-01-15,2024-01-18,55,10509.85,3
+P0830,Male,A-,Cardiology,Dr. Cruz,Hypertension,HMO,2024-04-15,2024-04-30,51,51185.17,15
+P0831,Male,O-,Neurology,Dr. Ramos,Asthma,Indigent,2024-12-01,2024-12-06,60,15156.28,5
+P0832,Male,AB-,Pediatrics,Dr. Torres,Appendicitis,Private Pay,2024-03-30,2024-04-11,8,25812.37,12
+P0833,Male,AB+,Cardiology,Dr. Flores,Fracture,PhilHealth,2024-01-01,2024-01-21,86,35658.28,20
+P0834,Male,O+,Emergency,Dr. Santos,Hypertension,PhilHealth,2023-10-17,2023-10-22,68,16914.16,5
+P0835,Female,O+,Neurology,Dr. Cruz,Pneumonia,Senior Citizen Discount,2024-02-07,2024-02-10,75,8889.97,3
+P0836,Male,O+,General Surgery,Dr. Cruz,Asthma,HMO,2023-02-27,2023-03-08,72,28052.12,9
+P0837,Female,A+,Dermatology,Dr. Torres,Appendicitis,PhilHealth,2024-06-04,2024-06-13,9,22972.65,9
+P0838,Male,B+,Cardiology,Dr. Santos,Hypertension,Senior Citizen Discount,2023-10-31,2023-11-07,2,24080.58,7
+P0839,Female,O+,Oncology,Dr. Lopez,Pneumonia,Private Pay,2023-04-25,2023-04-27,80,8941.5,2
+P0840,Female,A+,Emergency,Dr. Cruz,Heart Attack,Indigent,2023-07-29,2023-08-14,70,30671.49,16
+P0841,Male,B+,Neurology,Dr. Reyes,Hypertension,Senior Citizen Discount,2023-02-10,2023-02-19,85,23369.03,9
+P0842,Female,B+,Pediatrics,Dr. Torres,Fracture,Senior Citizen Discount,2023-06-22,2023-07-05,59,32835.67,13
+P0843,Male,B+,General Surgery,Dr. Cruz,Heart Attack,PhilHealth,2023-08-22,2023-09-10,19,53043.25,19
+P0844,Female,O+,Dermatology,Dr. Mendoza,Fracture,PhilHealth,2024-08-12,2024-09-01,28,57485.81,20
+P0845,Male,O+,Orthopedics,Dr. Santos,Appendicitis,HMO,2024-09-11,2024-09-28,72,40623.55,17
+P0846,Male,A+,Emergency,Dr. Ramos,Migraine,HMO,2024-02-07,2024-02-13,14,13788.79,6
+P0847,Male,A+,Oncology,Dr. Cruz,Appendicitis,HMO,2023-02-08,2023-02-12,24,15461.81,4
+P0848,Female,A+,Emergency,Dr. Torres,Heart Attack,PhilHealth,2023-04-29,2023-04-30,44,6914.95,1
+P0849,Female,O+,Orthopedics,Dr. Ramos,Stroke,HMO,2023-12-01,2023-12-19,56,66898.52,18
+P0850,Female,O+,Emergency,Dr. Reyes,Appendicitis,HMO,2023-12-02,2023-12-21,51,56202.71,19
+P0851,Male,A-,Pediatrics,Dr. Ramos,Heart Attack,PhilHealth,2024-06-22,2024-07-01,32,25823.2,9
+P0852,Female,O+,Emergency,Dr. Mendoza,Hypertension,PhilHealth,2024-09-07,2024-09-20,50,37615.71,13
+P0853,Male,O+,Emergency,Dr. Lopez,Skin Infection,HMO,2023-03-15,2023-03-23,41,30949.02,8
+P0854,Female,O+,General Surgery,Dr. Cruz,Appendicitis,Private Pay,2023-07-10,2023-07-23,66,46506.35,13
+P0855,Male,O+,Cardiology,Dr. Garcia,Hypertension,PhilHealth,2023-11-20,2023-12-05,25,38387.35,15
+P0856,Male,A+,Orthopedics,Dr. Garcia,Fracture,HMO,2023-05-27,2023-06-07,61,28426.29,11
+P0857,Male,O+,Emergency,Dr. Ramos,Asthma,Private Pay,2023-10-11,2023-10-23,66,28314.83,12
+P0858,Male,B+,Cardiology,Dr. Aquino,Migraine,HMO,2023-08-01,2023-08-15,42,40691.48,14
+P0859,Female,O+,Cardiology,Dr. Santos,Fracture,PhilHealth,2024-09-26,2024-09-30,65,18877.4,4
+P0860,Male,O+,Cardiology,Dr. Garcia,Fracture,HMO,2024-12-18,2024-12-19,36,9837.63,1
+P0861,Female,O+,General Surgery,Dr. Aquino,Heart Attack,PhilHealth,2024-01-29,2024-02-02,76,11424.71,4
+P0862,Male,O+,Emergency,Dr. Garcia,Stroke,Senior Citizen Discount,2023-12-05,2023-12-24,9,60554.2,19
+P0863,Female,A+,Dermatology,Dr. Aquino,Diabetes,PhilHealth,2023-01-22,2023-01-31,36,33389.71,9
+P0864,Male,B-,Orthopedics,Dr. Santos,Skin Infection,Private Pay,2023-04-15,2023-04-25,38,23490.54,10
+P0865,Male,O-,Neurology,Dr. Flores,Stroke,PhilHealth,2024-04-10,2024-04-14,33,15925.79,4
+P0866,Female,O+,Orthopedics,Dr. Garcia,Heart Attack,HMO,2024-04-03,2024-04-23,42,53552.85,20
+P0867,Male,A+,Orthopedics,Dr. Mendoza,Migraine,HMO,2024-03-07,2024-03-16,61,35788.04,9
+P0868,Male,A+,Pediatrics,Dr. Cruz,Skin Infection,PhilHealth,2024-12-16,2024-12-29,46,45935.33,13
+P0869,Female,A+,Emergency,Dr. Aquino,Skin Infection,HMO,2024-09-10,2024-09-22,86,36045.8,12
+P0870,Female,O+,Emergency,Dr. Cruz,Heart Attack,PhilHealth,2023-08-09,2023-08-20,89,35063.82,11
+P0871,Male,O+,General Surgery,Dr. Torres,Pneumonia,PhilHealth,2024-01-14,2024-01-26,61,45607.38,12
+P0872,Male,A+,Dermatology,Dr. Torres,Fracture,HMO,2023-08-10,2023-08-28,18,49690.17,18
+P0873,Female,B+,General Surgery,Dr. Santos,Asthma,PhilHealth,2023-09-15,2023-09-27,70,29966.11,12
+P0874,Male,O+,Neurology,Dr. Aquino,Pneumonia,Senior Citizen Discount,2024-12-13,2024-12-29,82,52393.87,16
+P0875,Male,O+,Oncology,Dr. Reyes,Heart Attack,HMO,2024-01-02,2024-01-07,80,14574.87,5
+P0876,Male,B-,Neurology,Dr. Torres,Pneumonia,HMO,2023-12-15,2024-01-04,15,49645.49,20
+P0877,Female,AB+,Neurology,Dr. Santos,Asthma,PhilHealth,2023-08-13,2023-08-25,48,45093.74,12
+P0878,Female,B+,Emergency,Dr. Torres,Heart Attack,HMO,2024-12-14,2024-12-25,72,36646.72,11
+P0879,Male,A-,Orthopedics,Dr. Torres,Heart Attack,Private Pay,2023-08-24,2023-09-02,13,28954.53,9
+P0880,Male,AB+,Emergency,Dr. Reyes,Skin Infection,PhilHealth,2023-07-02,2023-07-20,43,42661.22,18
+P0881,Male,O+,Emergency,Dr. Garcia,Pneumonia,Private Pay,2024-12-12,2024-12-15,60,9852.72,3
+P0882,Female,O+,Oncology,Dr. Ramos,Hypertension,PhilHealth,2024-03-19,2024-04-08,57,46503.57,20
+P0883,Male,O+,Emergency,Dr. Flores,Appendicitis,Private Pay,2024-09-14,2024-10-01,71,35185.72,17
+P0884,Male,O+,Cardiology,Dr. Torres,Heart Attack,PhilHealth,2023-01-06,2023-01-20,17,46160.03,14
+P0885,Female,A+,Cardiology,Dr. Torres,Pneumonia,Senior Citizen Discount,2023-08-24,2023-08-25,50,11008.99,1
+P0886,Male,B+,Dermatology,Dr. Mendoza,Diabetes,HMO,2023-05-07,2023-05-24,32,45326.55,17
+P0887,Female,A+,Orthopedics,Dr. Flores,Migraine,PhilHealth,2023-04-14,2023-04-22,22,23894.2,8
+P0888,Male,A+,Neurology,Dr. Reyes,Diabetes,PhilHealth,2024-04-24,2024-04-29,55,23403.42,5
+P0889,Male,O+,Oncology,Dr. Cruz,Pneumonia,HMO,2023-06-04,2023-06-09,57,14409.66,5
+P0890,Male,O-,Oncology,Dr. Aquino,Fracture,Indigent,2023-09-14,2023-09-23,13,18229.49,9
+P0891,Female,A+,Emergency,Dr. Torres,Fracture,PhilHealth,2023-08-23,2023-08-26,47,7626.91,3
+P0892,Female,B+,Pediatrics,Dr. Ramos,Pneumonia,PhilHealth,2024-05-14,2024-06-02,87,54176.7,19
+P0893,Female,O+,Oncology,Dr. Aquino,Skin Infection,HMO,2023-10-16,2023-10-25,62,23588.48,9
+P0894,Male,A+,Pediatrics,Dr. Flores,Skin Infection,HMO,2024-05-24,2024-06-11,54,48164.49,18
+P0895,Female,AB+,Cardiology,Dr. Aquino,Heart Attack,HMO,2024-07-05,2024-07-21,29,46927.39,16
+P0896,Male,O+,General Surgery,Dr. Garcia,Asthma,Private Pay,2024-12-09,2024-12-10,22,6903.51,1
+P0897,Male,O+,Orthopedics,Dr. Torres,Appendicitis,PhilHealth,2024-07-22,2024-07-24,65,7233.65,2
+P0898,Female,A+,Emergency,Dr. Aquino,Heart Attack,Senior Citizen Discount,2023-10-25,2023-11-08,29,38847.15,14
+P0899,Male,B+,Neurology,Dr. Cruz,Diabetes,HMO,2024-09-01,2024-09-15,48,29269.63,14
+P0900,Male,O+,Cardiology,Dr. Cruz,Appendicitis,PhilHealth,2023-05-17,2023-05-18,5,4672.51,1
+P0901,Male,AB+,Cardiology,Dr. Torres,Diabetes,Private Pay,2024-01-11,2024-01-27,35,34674.68,16
+P0902,Male,A+,Oncology,Dr. Lopez,Skin Infection,HMO,2023-03-28,2023-04-12,74,32151.37,15
+P0903,Male,O+,Cardiology,Dr. Cruz,Pneumonia,PhilHealth,2024-02-23,2024-03-09,83,43480.34,15
+P0904,Female,A+,Neurology,Dr. Aquino,Asthma,HMO,2023-07-18,2023-07-30,71,29165.75,12
+P0905,Male,O+,Orthopedics,Dr. Santos,Diabetes,PhilHealth,2024-04-07,2024-04-23,46,40099.39,16
+P0906,Female,A+,Cardiology,Dr. Cruz,Skin Infection,HMO,2024-03-12,2024-03-26,35,34665.14,14
+P0907,Female,O+,Dermatology,Dr. Flores,Asthma,Senior Citizen Discount,2023-11-06,2023-11-21,45,61965.48,15
+P0908,Male,B+,Emergency,Dr. Lopez,Heart Attack,PhilHealth,2024-08-18,2024-09-02,13,51334.54,15
+P0909,Male,A-,Emergency,Dr. Aquino,Pneumonia,PhilHealth,2023-10-08,2023-10-27,10,47907.24,19
+P0910,Male,A+,Emergency,Dr. Reyes,Migraine,Private Pay,2023-11-19,2023-11-27,66,21532.65,8
+P0911,Female,A-,Emergency,Dr. Mendoza,Fracture,Indigent,2024-12-02,2024-12-04,70,7654.64,2
+P0912,Male,O+,Cardiology,Dr. Reyes,Stroke,HMO,2023-06-01,2023-06-03,72,10621.65,2
+P0913,Female,O-,Pediatrics,Dr. Garcia,Asthma,HMO,2023-10-29,2023-11-08,25,19228.09,10
+P0914,Male,B+,Dermatology,Dr. Mendoza,Migraine,HMO,2023-10-05,2023-10-08,44,14326.3,3
+P0915,Female,B+,Emergency,Dr. Garcia,Migraine,Senior Citizen Discount,2024-10-12,2024-10-29,60,45647.22,17
+P0916,Male,O+,Pediatrics,Dr. Mendoza,Asthma,Senior Citizen Discount,2024-11-18,2024-11-26,47,30900.72,8
+P0917,Male,O+,Pediatrics,Dr. Mendoza,Migraine,PhilHealth,2023-01-08,2023-01-12,40,14886.31,4
+P0918,Female,AB+,Oncology,Dr. Santos,Diabetes,HMO,2023-08-23,2023-09-06,7,48400.94,14
+P0919,Female,B+,Neurology,Dr. Ramos,Migraine,HMO,2024-11-05,2024-11-15,46,36122.41,10
+P0920,Male,B+,Emergency,Dr. Flores,Skin Infection,Private Pay,2024-07-14,2024-07-15,23,7704.88,1
+P0921,Female,O+,Emergency,Dr. Reyes,Appendicitis,HMO,2023-10-29,2023-11-02,83,16529.8,4
+P0922,Female,A+,Pediatrics,Dr. Cruz,Diabetes,Private Pay,2023-02-07,2023-02-08,46,3529.86,1
+P0923,Female,O+,Oncology,Dr. Aquino,Migraine,Indigent,2023-05-16,2023-06-02,86,40329.55,17
+P0924,Female,B+,Emergency,Dr. Lopez,Heart Attack,PhilHealth,2024-02-25,2024-03-13,13,38914.09,17
+P0925,Male,O+,Emergency,Dr. Flores,Fracture,PhilHealth,2023-08-07,2023-08-14,21,23620.59,7
+P0926,Male,A+,General Surgery,Dr. Garcia,Pneumonia,HMO,2023-12-14,2024-01-03,1,53576.34,20
+P0927,Male,AB+,Oncology,Dr. Santos,Migraine,PhilHealth,2024-06-29,2024-07-14,19,53543.61,15
+P0928,Female,B+,Dermatology,Dr. Garcia,Hypertension,PhilHealth,2023-03-20,2023-04-02,60,25760.33,13
+P0929,Female,O+,Pediatrics,Dr. Ramos,Fracture,PhilHealth,2023-09-30,2023-10-02,33,8023.91,2
+P0930,Male,A+,Neurology,Dr. Lopez,Heart Attack,Private Pay,2023-06-10,2023-06-29,4,41165.95,19
+P0931,Male,AB+,Orthopedics,Dr. Santos,Skin Infection,Senior Citizen Discount,2024-11-17,2024-11-30,3,47255.59,13
+P0932,Female,AB+,Pediatrics,Dr. Garcia,Migraine,HMO,2023-11-04,2023-11-15,52,28716.16,11
+P0933,Female,AB+,Cardiology,Dr. Ramos,Skin Infection,HMO,2024-01-09,2024-01-24,28,29112.19,15
+P0934,Female,AB-,Orthopedics,Dr. Aquino,Migraine,PhilHealth,2023-01-09,2023-01-19,70,36186.43,10
+P0935,Male,O+,Pediatrics,Dr. Aquino,Stroke,Private Pay,2024-03-19,2024-03-28,70,21083.77,9
+P0936,Male,O+,Cardiology,Dr. Garcia,Appendicitis,Private Pay,2023-04-23,2023-05-02,55,28109.03,9
+P0937,Male,A+,Oncology,Dr. Flores,Skin Infection,HMO,2023-07-24,2023-08-13,57,58435.39,20
+P0938,Female,O+,Orthopedics,Dr. Lopez,Appendicitis,PhilHealth,2024-02-09,2024-02-10,87,5095.77,1
+P0939,Male,B+,Dermatology,Dr. Torres,Fracture,PhilHealth,2024-11-28,2024-12-15,16,49583.13,17
+P0940,Female,A+,Cardiology,Dr. Flores,Stroke,PhilHealth,2023-07-16,2023-07-28,24,40431.47,12
+P0941,Male,A+,Emergency,Dr. Aquino,Pneumonia,HMO,2023-04-25,2023-05-05,69,21926.65,10
+P0942,Female,B+,Orthopedics,Dr. Lopez,Diabetes,Private Pay,2023-05-01,2023-05-06,41,18625.06,5
+P0943,Female,O+,Emergency,Dr. Ramos,Appendicitis,Senior Citizen Discount,2024-10-14,2024-11-01,77,65794.93,18
+P0944,Female,O+,Pediatrics,Dr. Santos,Stroke,HMO,2023-03-06,2023-03-21,47,30799.97,15
+P0945,Male,O+,Pediatrics,Dr. Mendoza,Appendicitis,Private Pay,2023-10-03,2023-10-09,76,16357.95,6
+P0946,Male,B+,Cardiology,Dr. Garcia,Asthma,Senior Citizen Discount,2023-08-27,2023-09-03,69,26662.43,7
+P0947,Male,B+,Orthopedics,Dr. Reyes,Heart Attack,PhilHealth,2023-10-29,2023-11-15,31,44943.4,17
+P0948,Female,A+,Orthopedics,Dr. Lopez,Pneumonia,PhilHealth,2024-01-27,2024-02-02,30,19926.99,6
+P0949,Female,A-,Emergency,Dr. Cruz,Heart Attack,Senior Citizen Discount,2024-06-05,2024-06-13,18,18515.71,8
+P0950,Female,B+,General Surgery,Dr. Ramos,Migraine,PhilHealth,2024-01-04,2024-01-16,44,35166.94,12
+P0951,Female,A+,Oncology,Dr. Torres,Appendicitis,Senior Citizen Discount,2023-08-21,2023-09-04,27,28993.98,14
+P0952,Female,A+,Pediatrics,Dr. Mendoza,Migraine,Indigent,2023-07-14,2023-07-26,26,33524.45,12
+P0953,Male,AB+,Pediatrics,Dr. Cruz,Hypertension,Private Pay,2023-01-12,2023-01-22,60,33894.08,10
+P0954,Female,O+,Neurology,Dr. Torres,Appendicitis,Private Pay,2024-11-19,2024-12-09,18,46265.95,20
+P0955,Male,O-,General Surgery,Dr. Reyes,Stroke,Private Pay,2023-06-26,2023-07-11,89,44544.8,15
+P0956,Male,O+,Pediatrics,Dr. Aquino,Pneumonia,Private Pay,2023-08-05,2023-08-12,56,31730.43,7
+P0957,Female,O+,Pediatrics,Dr. Flores,Migraine,PhilHealth,2023-01-11,2023-01-20,31,28346.58,9
+P0958,Male,B+,General Surgery,Dr. Garcia,Appendicitis,PhilHealth,2024-03-21,2024-03-31,59,39405.54,10
+P0959,Male,O+,Emergency,Dr. Santos,Hypertension,PhilHealth,2024-09-21,2024-10-01,2,27660.64,10
+P0960,Female,O+,Oncology,Dr. Torres,Heart Attack,Private Pay,2023-06-13,2023-06-29,39,54773.02,16
+P0961,Male,A+,Emergency,Dr. Mendoza,Stroke,PhilHealth,2024-07-04,2024-07-11,61,14254.7,7
+P0962,Female,B+,Emergency,Dr. Lopez,Asthma,PhilHealth,2023-02-22,2023-02-27,63,14013.07,5
+P0963,Male,O+,Emergency,Dr. Aquino,Appendicitis,PhilHealth,2023-08-06,2023-08-09,18,11345.87,3
+P0964,Male,B+,Dermatology,Dr. Lopez,Asthma,Private Pay,2024-12-18,2025-01-05,17,43501.06,18
+P0965,Male,AB+,Oncology,Dr. Mendoza,Fracture,Indigent,2023-12-26,2024-01-06,39,41322.92,11
+P0966,Male,AB+,Pediatrics,Dr. Lopez,Pneumonia,Indigent,2024-01-20,2024-02-04,71,40579.85,15
+P0967,Female,A+,Pediatrics,Dr. Torres,Appendicitis,HMO,2023-02-25,2023-03-17,54,60835.55,20
+P0968,Male,B+,Orthopedics,Dr. Ramos,Skin Infection,Senior Citizen Discount,2023-04-28,2023-05-03,76,22313.48,5
+P0969,Female,B+,Dermatology,Dr. Lopez,Hypertension,Private Pay,2023-09-10,2023-09-22,35,36688.99,12
+P0970,Male,A+,Neurology,Dr. Flores,Migraine,HMO,2023-06-29,2023-07-03,11,15557.1,4
+P0971,Female,A+,Neurology,Dr. Reyes,Skin Infection,HMO,2024-02-19,2024-03-05,61,40374.46,15
+P0972,Female,O+,Cardiology,Dr. Santos,Fracture,PhilHealth,2023-08-23,2023-09-01,44,29498.34,9
+P0973,Female,A+,Oncology,Dr. Torres,Pneumonia,Senior Citizen Discount,2024-12-08,2024-12-15,68,19665.15,7
+P0974,Male,B+,Pediatrics,Dr. Cruz,Heart Attack,PhilHealth,2023-03-21,2023-03-31,25,39286.83,10
+P0975,Male,A-,Neurology,Dr. Mendoza,Stroke,HMO,2024-10-08,2024-10-21,48,23862.57,13
+P0976,Male,O+,Cardiology,Dr. Aquino,Asthma,Private Pay,2023-01-22,2023-01-30,32,18733.63,8
+P0977,Female,A+,Oncology,Dr. Torres,Fracture,PhilHealth,2024-04-21,2024-05-03,84,41196.89,12
+P0978,Male,B+,Cardiology,Dr. Ramos,Migraine,PhilHealth,2024-03-15,2024-04-03,4,45859.42,19
+P0979,Female,O+,Pediatrics,Dr. Aquino,Stroke,HMO,2024-07-23,2024-07-24,38,8623.73,1
+P0980,Female,O+,Dermatology,Dr. Flores,Heart Attack,PhilHealth,2023-04-03,2023-04-19,63,37645.38,16
+P0981,Male,A+,Neurology,Dr. Mendoza,Migraine,Private Pay,2023-07-11,2023-07-28,47,46051.38,17
+P0982,Female,O+,Emergency,Dr. Aquino,Hypertension,HMO,2023-04-13,2023-05-01,1,43047.22,18
+P0983,Male,B+,Pediatrics,Dr. Lopez,Asthma,HMO,2024-01-31,2024-02-11,3,30998.61,11
+P0984,Male,B+,Oncology,Dr. Torres,Skin Infection,HMO,2023-01-07,2023-01-25,86,46802.93,18
+P0985,Female,A+,Orthopedics,Dr. Reyes,Appendicitis,HMO,2024-10-01,2024-10-08,62,22754.78,7
+P0986,Female,A+,Dermatology,Dr. Mendoza,Fracture,HMO,2024-07-20,2024-08-07,64,52371.05,18
+P0987,Female,O+,Cardiology,Dr. Garcia,Appendicitis,Private Pay,2023-08-19,2023-08-27,17,31556.3,8
+P0988,Male,B+,Orthopedics,Dr. Flores,Stroke,Private Pay,2024-07-27,2024-08-02,78,11723.0,6
+P0989,Male,B+,Pediatrics,Dr. Santos,Appendicitis,Private Pay,2023-08-28,2023-09-04,62,25247.04,7
+P0990,Female,O+,General Surgery,Dr. Mendoza,Skin Infection,Senior Citizen Discount,2023-03-31,2023-04-10,35,35883.31,10
+P0991,Female,O+,Cardiology,Dr. Ramos,Diabetes,PhilHealth,2023-08-20,2023-08-31,13,41661.84,11
+P0992,Female,A+,Oncology,Dr. Torres,Stroke,HMO,2024-04-01,2024-04-14,35,30096.36,13
+P0993,Male,O+,Orthopedics,Dr. Lopez,Asthma,Senior Citizen Discount,2023-08-21,2023-08-30,43,29005.62,9
+P0994,Female,A+,Neurology,Dr. Santos,Migraine,PhilHealth,2023-12-20,2023-12-27,2,26689.91,7
+P0995,Male,O+,Cardiology,Dr. Santos,Asthma,PhilHealth,2023-11-29,2023-12-08,56,21593.78,9
+P0996,Male,O+,General Surgery,Dr. Flores,Appendicitis,HMO,2024-03-14,2024-03-27,77,50557.77,13
+P0997,Female,O+,Cardiology,Dr. Aquino,Pneumonia,PhilHealth,2024-01-10,2024-01-13,51,8053.97,3
+P0998,Male,A+,Emergency,Dr. Ramos,Stroke,PhilHealth,2023-10-19,2023-10-22,54,15365.27,3
+P0999,Female,A+,Emergency,Dr. Aquino,Migraine,Indigent,2023-12-11,2023-12-12,16,7247.9,1
+P1000,Male,A-,General Surgery,Dr. Lopez,Heart Attack,HMO,2024-10-25,2024-11-14,18,60367.29,20
